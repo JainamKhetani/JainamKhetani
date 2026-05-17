@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend+Developer;Open+Source+Enthusiast;Learning+DSA+and+Development;Future+SDE+Intern" />
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212750547-2e3c1f95-0f4e-4b4f-b0c3-6c36e2c5f5b5.gif" width="100%">
----
+
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@
 * ⚡ Love building projects and learning new tech
 
 <img src="https://user-images.githubusercontent.com/74038190/212750547-2e3c1f95-0f4e-4b4f-b0c3-6c36e2c5f5b5.gif" width="100%">
----
+
 
 ## 🌐 Connect With Me
 
