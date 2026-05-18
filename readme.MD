@@ -1,34 +1,33 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║      AYUSH KANANI  ·  ayushkanani-07  ·  THE ARCHITECT  ·  2025        ║ -->
-<!-- ║      CSPIT CHARUSAT  ·  B.Tech CSE  ·  GUJARAT, INDIA  🇮🇳             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ┌────────────────────────────────────────────────────────────────────────┐ -->
+<!-- │     AYUSH KANANI · ayushkanani-07 · FULL STACK DEVELOPER · 2025       │ -->
+<!-- └────────────────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=12,20,24,30&text=AYUSH%20KANANI&fontSize=82&fontColor=F59E0B&stroke=A855F7&strokeWidth=3&animation=fadeIn&desc=SOFTWARE%20ARCHITECT%20IN%20PROGRESS%20%E2%80%A2%20CSPIT%20CHARUSAT%20%E2%80%A2%20GUJARAT%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=80&descColor=EDE9FE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&customColorList=6,11,20&text=AYUSH%20KANANI&fontSize=78&fontColor=00FFD1&stroke=00FFD1&strokeWidth=3&animation=blinking&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20CHARUSAT%20UNIVERSITY%20%E2%80%A2%20Gujarat%20%F0%9F%87%AE%F0%9F%87%B3&descSize=17&descAlignY=78&descColor=AAFFF0" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=◈+Crafting+Full+Stack+solutions+—+front+to+back+to+network;◈+React+·+Node.js+·+Java+·+MySQL+·+MongoDB+·+Express;◈+CCNA+Certified+·+7%2B+Milestones+Earned+·+Still+Compiling;◈+Building+products+with+purpose%2C+not+just+with+code;◈+Responsive+UI+is+the+baseline%2C+not+the+bonus;◈+Open+to+Internships+·+Collaborations+·+Good+Problems;◈+Gujarat%2C+India+🇮🇳+·+CSPIT+CHARUSAT+·+B.Tech+CSE" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=1800&pause=700&color=00FFD1&center=true&vCenter=true&width=960&lines=→+Full+Stack+Engineer+in+the+Making;→+React+·+Node.js+·+Java+·+MongoDB+·+MySQL;→+Building+real+products%2C+not+tutorial+clones;→+CCNA+Certified+·+7%2B+Certifications+Earned;→+Responsive+UI+is+not+optional+—+it's+baseline;→+Available+for+Internships+%26+Collaborations+🤝;→+Gujarat%2C+India+🇮🇳+·+CSPIT+CHARUSAT" />
 
 </div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="7">
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/ayushkanani-07">
-  <img src="https://komarev.com/ghpvc/?username=ayushkanani-07&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F0A1E"/>
+  <img src="https://komarev.com/ghpvc/?username=ayushkanani-07&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS"/>
 </a>
-&nbsp;
 <a href="https://github.com/ayushkanani-07?tab=followers">
-  <img src="https://img.shields.io/github/followers/ayushkanani-07?style=for-the-badge&color=A855F7&labelColor=0F0A1E&logo=github&label=FOLLOWERS"/>
+  <img src="https://img.shields.io/github/followers/ayushkanani-07?style=for-the-badge&color=00FFD1&labelColor=0D1117&logo=github&label=FOLLOWERS"/>
 </a>
-&nbsp;
 <a href="https://github.com/ayushkanani-07?tab=stars">
-  <img src="https://img.shields.io/github/stars/ayushkanani-07?style=for-the-badge&color=F59E0B&labelColor=0F0A1E&logo=github&label=STARS"/>
+  <img src="https://img.shields.io/github/stars/ayushkanani-07?style=for-the-badge&color=00FFD1&labelColor=0D1117&logo=github&label=STARS+EARNED"/>
 </a>
 
 </div>
@@ -36,18 +35,69 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🏛️  THE ARCHITECT'S BLUEPRINT                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                    ⚡  BOOT SEQUENCE — AYUSH INITIALIZATION               -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🏛️%20THE%20ARCHITECT'S%20BLUEPRINT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=⚡%20BOOT%20SEQUENCE&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
+
+</div>
+
+<br/>
+
+```diff
+@@  AYUSH.EXE  —  INITIALIZATION SEQUENCE  —  BUILD 2025.1  @@
+
++ [CORE]    Identity         :: Ayush Kanani — ayushkanani-07
++ [INST]    University       :: CSPIT, CHARUSAT — B.Tech CSE, Gujarat 🇮🇳
++ [ROLE]    Primary Class    :: Full Stack Developer
++ [STACK]   Active Modules   :: React · Node.js · Express · MySQL · MongoDB
++ [LANG]    Loaded Languages :: Java · C · C++ · Python · JavaScript
++ [CERT]    Vault Status     :: 7+ Certifications — CCNA · Full Stack · DB · Git
++ [FOCUS]   Current Ops      :: DSA + System Design + Advanced React
++ [GOAL]    Mission Target   :: World-Class Software Engineer
++ [STYLE]   Code Philosophy  :: Design first. Then build. Then ship.
++ [MODE]    Execution        :: DELIBERATE. CONSISTENT. RELENTLESS.
+
+- [SKIP]    Shortcuts        :: MODULE DISABLED
+- [WARN]    Giving Up        :: PROCESS NOT FOUND
+- [ERR]     Comfort Zone     :: EJECTED PERMANENTLY
+- [NULL]    Tutorial Cloning :: NOT IN REPERTOIRE
+
+> UPTIME    :: 24 / 7
+> SIGNAL    :: Gujarat, India 🇮🇳 — always transmitting 📡
+> PRIORITY  :: Build right. Learn deep. Ship consistently.
+> STATUS    :: ████████████████████ ONLINE — ALL SYSTEMS GO ✅
+```
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260"/>
+
+## 🌐 WELCOME TO AYUSH KANANI'S GITHUB — WHERE CODE MEETS CRAFT 🌐
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                       🪪  IDENTITY MATRIX                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🪪%20IDENTITY%20MATRIX&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -57,102 +107,98 @@
 <tr>
 <td width="50%" valign="top">
 
-```toml
-# ┌─────────────────────────────────────┐
-# │   AYUSH.CONFIG — release 2025.1     │
-# └─────────────────────────────────────┘
+```yaml
+# ╔══ AYUSH.PROFILE — v2025.1 ══╗
 
-[identity]
-name          = "Ayush Kanani"
-handle        = "ayushkanani-07"
-archetype     = "Full Stack Developer"
-rank          = "Rising → Elite"
-threat_level  = "EXTREMELY SERIOUS"
-location      = "Gujarat, India 🇮🇳"
+handle:       "ayushkanani-07"
+full_name:    "Ayush Kanani"
+class:        "Full Stack Developer"
+rank:         "Rising → Elite"
+threat_level: "VERY SERIOUS"
 
-[education]
-institute     = "CSPIT, CHARUSAT University"
-degree        = "B.Tech — Computer Science Engineering"
-status        = "Active — Building While Studying"
+university:
+  name:   "CSPIT, CHARUSAT University"
+  degree: "B.Tech — CSE"
+  base:   "Gujarat, India 🇮🇳"
 
-[mission]
-primary       = "Become a world-class Software Engineer"
-current       = "Building full stack apps — real scope"
-studying      = "DSA · System Design · Advanced React"
-seeking       = "Internships · Collabs · Open Source"
-available     = true
+current_ops:
+  building:  "Full Stack projects — real problems"
+  studying:  "DSA · System Design · Advanced React"
+  seeking:   "Internships · Collabs · Open Source"
+  available: true
 
-[stack]
-frontend      = ["React.js", "JavaScript", "HTML5", "CSS3"]
-backend       = ["Node.js", "Express.js", "REST APIs"]
-databases     = ["MySQL", "MongoDB", "DB Design"]
-languages     = ["Java", "C", "C++", "Python"]
-tools         = ["Git", "GitHub", "VS Code", "Postman"]
+core_strengths:
+  - "Full Stack Architecture   🏗️"
+  - "Component-Driven UI       ⚛️"
+  - "Database Design           🗄️"
+  - "Network Fundamentals      📡"
+  - "Clean Code Obsession      🧹"
+  - "Responsive UI Precision   📱"
 
-[certifications]
-earned        = 7
-flagship      = "Cisco CCNA — Network Architecture"
-status        = "Vault growing. Never stopping."
+personal_config:
+  dark_mode:        MANDATORY
+  cricket:          "stress_relief: true"
+  commit_frequency: DAILY
+  caffeine_mode:    ACTIVE
+  design_first:     true
+  shortcuts_taken:  0
+  tutorial_clones:  0
 
-[principles]
-design_first  = true
-responsive    = "non-negotiable"
-shortcuts     = 0
-tutorial_clones = 0
-commit_style  = "intentional, always"
+directive: >
+  Write code your future self
+  will actually be proud of. 🎯
 ```
 
 </td>
 <td width="50%" valign="top">
 
-```rust
-// ayush_kanani.rs — Developer Profile v2025.1
+```typescript
+const AyushKanani = {
+  name:    "Ayush Kanani",
+  alias:   "ayushkanani-07",
+  college: "CSPIT · CHARUSAT",
+  degree:  "B.Tech CSE — Active",
 
-struct AyushKanani {
-    name:    &'static str,
-    alias:   &'static str,
-    college: &'static str,
-    degree:  &'static str,
-}
+  stack: {
+    frontend:  [
+      "React.js", "JavaScript",
+      "HTML5", "CSS3"
+    ],
+    backend: [
+      "Node.js", "Express.js"
+    ],
+    databases: [
+      "MySQL", "MongoDB"
+    ],
+    languages: [
+      "Java", "C", "C++", "Python"
+    ],
+    tools: [
+      "Git", "GitHub",
+      "VS Code", "Postman"
+    ],
+  },
 
-impl AyushKanani {
-    fn core_strengths(&self) -> Vec<&str> {
-        vec![
-            "Full Stack Architecture   🏗️",
-            "Component-Driven UI       ⚛️",
-            "Database Schema Design    🗄️",
-            "Network Fundamentals      📡",
-            "Responsive UI Precision   📱",
-            "Clean Code Obsession      🧹",
-            "Version Control Fluency   🌿",
-        ]
-    }
+  certifications: [
+    "Cisco CCNA",
+    "Full Stack Development",
+    "Database Systems",
+    "Git & Version Control",
+    // + 3 more earned
+  ],
 
-    fn engineering_code(&self) -> &str {
-        "Design first.
-         Build right.
-         Iterate relentlessly.
-         Ship deliberately."
-    }
+  principles: [
+    "Build it right, then better",
+    "Design before line 1",
+    "Responsive is non-negotiable",
+    "Commit with intention",
+  ],
 
-    fn what_i_dont_do(&self) -> Vec<&str> {
-        vec![
-            "Tutorial clones",
-            "Copy-paste solutions",
-            "Sloppy variable names",
-            "Skipping responsive checks",
-            "Giving up mid-build",
-        ]
-    }
+  goal: "World-Class Software Engineer",
 
-    fn goal(&self) -> &str {
-        "Build software my future team
-         would be proud to maintain. 🎯"
-    }
-}
-
-// STATUS: impl block never finishes.
-// There is always one more method to add.
+  summary: () =>
+    "Building software that earns its place. 🚀",
+};
 ```
 
 </td>
@@ -163,63 +209,62 @@ impl AyushKanani {
 
 <div align="center">
 
-| 🔩 CORE MODULE | ⚡ CHARGE | 🏷️ CLASSIFICATION |
-|:---|:---:|:---:|
-| ⚛️ React.js & Frontend | `◈◈◈◈◈◈◈◈◈░` 88% | `ADVANCED` |
-| 🌐 Full Stack Development | `◈◈◈◈◈◈◈◈◈░` 85% | `PROFICIENT` |
-| ☕ Java & OOP | `◈◈◈◈◈◈◈◈░░` 80% | `STRONG` |
-| 🗄️ MySQL & DB Design | `◈◈◈◈◈◈◈◈◈░` 83% | `CONFIDENT` |
-| 📡 Networking (CCNA) | `◈◈◈◈◈◈◈◈░░` 80% | `CERTIFIED` |
-| 🧹 Clean Code Index | `◈◈◈◈◈◈◈◈◈◈` ∞% | `OBSESSIVE` |
-| 🚀 Ambition Drive | `◈◈◈◈◈◈◈◈◈◈` ∞% | `UNSTOPPABLE` |
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      🌐  CONNECT & UPLINK                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🌐%20CONNECT%20%26%20UPLINK&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkanani--07-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kanani-A855F7?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0F0A1E)](https://www.linkedin.com/in/ayush-kanani)
-[![Instagram](https://img.shields.io/badge/Instagram-ayush_.k._07-F59E0B?style=for-the-badge&logo=instagram&logoColor=0F0A1E&labelColor=0F0A1E)](https://www.instagram.com/ayush_.k._07)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F0A1E&labelColor=0F0A1E)](mailto:ayushkanani2601@gmail.com)
-
-<br/>
-
-| 📶 CHANNEL | 🔗 DESTINATION | 🟢 STATUS |
+| 🔋 CORE MODULE | CHARGE LEVEL | OPERATIONAL STATUS |
 |:---:|:---:|:---:|
-| 🐙 GitHub | [ayushkanani-07](https://github.com/ayushkanani-07) | `Commits daily — always shipping` |
-| 💼 LinkedIn | [ayush-kanani](https://www.linkedin.com/in/ayush-kanani) | `Open to opportunities` |
-| 📸 Instagram | [ayush\_.k.\_07](https://www.instagram.com/ayush_.k._07) | `Online — occasional behind-the-build` |
-| 📧 Email | [ayushkanani2601@gmail.com](mailto:ayushkanani2601@gmail.com) | `Responds fast. Always.` |
+| ⚛️ React.js | `▓▓▓▓▓▓▓▓▓░` 88% | `ADVANCED` |
+| 🌐 Full Stack | `▓▓▓▓▓▓▓▓▓░` 85% | `PROFICIENT` |
+| ☕ Java | `▓▓▓▓▓▓▓▓░░` 80% | `STRONG` |
+| 🗄️ MySQL | `▓▓▓▓▓▓▓▓░░` 83% | `CONFIDENT` |
+| 📡 Networking | `▓▓▓▓▓▓▓▓░░` 80% | `CCNA CERTIFIED` |
+| 🎯 Ambition | `▓▓▓▓▓▓▓▓▓▓` ∞% | `MAX POWER` |
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🛠️  THE CRAFTSMAN'S TOOLKIT                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        📡  SOCIAL UPLINK CENTER                           -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🛠️%20THE%20CRAFTSMAN'S%20TOOLKIT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=📡%20SOCIAL%20UPLINK%20CENTER&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ayushkanani--07-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kanani-00FFD1?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/ayush-kanani)
+[![Instagram](https://img.shields.io/badge/Instagram-ayush_.k._07-00FFD1?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=0D1117)](https://www.instagram.com/ayush_.k._07)
+[![Email](https://img.shields.io/badge/Email-ayushkanani2601@gmail.com-00FFD1?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:ayushkanani2601@gmail.com)
+
+<br/>
+
+| 📶 CHANNEL | 🔗 LINK | 📊 STATUS |
+|:---:|:---:|:---:|
+| 🐙 GitHub | [ayushkanani-07](https://github.com/ayushkanani-07) | `ACTIVE — Commits daily` |
+| 💼 LinkedIn | [ayush-kanani](https://www.linkedin.com/in/ayush-kanani) | `OPEN TO OPPORTUNITIES` |
+| 📸 Instagram | [ayush_.k._07](https://www.instagram.com/ayush_.k._07) | `ONLINE` |
+| 📧 Email | [ayushkanani2601@gmail.com](mailto:ayushkanani2601@gmail.com) | `RESPONDS FAST` |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                          ⚡  SKILL RADAR                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=⚡%20SKILL%20RADAR&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -229,79 +274,41 @@ impl AyushKanani {
 <tr>
 <td width="50%" valign="top">
 
-**◈ FRONTEND LAYER**
+**🌐 FRONTEND**
 
-```ini
-[HTML5 / CSS3]
-proficiency  = 95%
-verdict      = EXPERT — baseline, never skipped
-
-[JavaScript]
-proficiency  = 90%
-verdict      = STRONG — core language, daily use
-
-[React.js]
-proficiency  = 88%
-verdict      = ADVANCED — hooks, state, components
-
-[Responsive UI]
-proficiency  = 95%
-verdict      = NON-NEGOTIABLE — 320px to 4K
+```
+HTML5 / CSS3    ▓▓▓▓▓▓▓▓▓▓  95%  ★ EXPERT
+JavaScript      ▓▓▓▓▓▓▓▓▓░  90%  ★ STRONG
+React.js        ▓▓▓▓▓▓▓▓▓░  88%  ★ ADVANCED
+Responsive UI   ▓▓▓▓▓▓▓▓▓▓  95%  ★ NON-NEGOTIABLE
 ```
 
-**◈ BACKEND LAYER**
+**🔧 BACKEND**
 
-```ini
-[Node.js]
-proficiency  = 82%
-verdict      = GROWING — server-side, APIs
-
-[Express.js]
-proficiency  = 82%
-verdict      = GROWING — routing, middleware
-
-[REST APIs]
-proficiency  = 80%
-verdict      = SOLID — design + integration
+```
+Node.js         ▓▓▓▓▓▓▓▓░░  82%  ↑ GROWING
+Express.js      ▓▓▓▓▓▓▓▓░░  82%  ↑ GROWING
+REST APIs       ▓▓▓▓▓▓▓▓░░  80%  ↑ SOLID
 ```
 
 </td>
 <td width="50%" valign="top">
 
-**◈ DATA LAYER**
+**🗄️ DATABASES**
 
-```ini
-[MySQL]
-proficiency  = 83%
-verdict      = CONFIDENT — schema design, queries
-
-[MongoDB]
-proficiency  = 76%
-verdict      = ADVANCING — NoSQL, aggregation
-
-[DB Architecture]
-proficiency  = 82%
-verdict      = STRONG — designed to last
+```
+MySQL           ▓▓▓▓▓▓▓▓░░  83%  ★ CONFIDENT
+MongoDB         ▓▓▓▓▓▓▓░░░  76%  ↑ ADVANCING
+DB Design       ▓▓▓▓▓▓▓▓░░  82%  ★ STRONG
 ```
 
-**◈ LANGUAGES & INFRASTRUCTURE**
+**💻 LANGUAGES & TOOLS**
 
-```ini
-[Java]
-proficiency  = 80%
-verdict      = STRONG — OOP, data structures
-
-[C / C++]
-proficiency  = 75%
-verdict      = SOLID — foundations matter
-
-[Git & GitHub]
-proficiency  = 90%
-verdict      = FLUENT — version control is craft
-
-[Cisco Networking]
-proficiency  = 80%
-verdict      = CCNA CERTIFIED ✅ — not just a badge
+```
+Java            ▓▓▓▓▓▓▓▓░░  80%  ★ STRONG
+C / C++         ▓▓▓▓▓▓▓░░░  75%  ↑ SOLID
+Git & GitHub    ▓▓▓▓▓▓▓▓▓░  90%  ★ FLUENT
+Networking      ▓▓▓▓▓▓▓▓░░  80%  ★ CCNA ✅
 ```
 
 </td>
@@ -312,44 +319,42 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-**◈ COMPLETE TECHNOLOGY ARSENAL ◈**
+**— TECH STACK —**
 
-<br/>
-
-![React](https://img.shields.io/badge/React-0F0A1E?style=for-the-badge&logo=react&logoColor=A855F7)
-![Node.js](https://img.shields.io/badge/Node.js-0F0A1E?style=for-the-badge&logo=nodedotjs&logoColor=A855F7)
-![Express](https://img.shields.io/badge/Express-0F0A1E?style=for-the-badge&logo=express&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F0A1E?style=for-the-badge&logo=javascript&logoColor=F59E0B)
-![Java](https://img.shields.io/badge/Java-0F0A1E?style=for-the-badge&logo=openjdk&logoColor=F59E0B)
-![MySQL](https://img.shields.io/badge/MySQL-0F0A1E?style=for-the-badge&logo=mysql&logoColor=A855F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F0A1E?style=for-the-badge&logo=mongodb&logoColor=A855F7)
-![HTML5](https://img.shields.io/badge/HTML5-0F0A1E?style=for-the-badge&logo=html5&logoColor=F59E0B)
-![CSS3](https://img.shields.io/badge/CSS3-0F0A1E?style=for-the-badge&logo=css3&logoColor=F59E0B)
-![Python](https://img.shields.io/badge/Python-0F0A1E?style=for-the-badge&logo=python&logoColor=A855F7)
-![C++](https://img.shields.io/badge/C++-0F0A1E?style=for-the-badge&logo=cplusplus&logoColor=A855F7)
-![C](https://img.shields.io/badge/C-0F0A1E?style=for-the-badge&logo=c&logoColor=F59E0B)
-![Git](https://img.shields.io/badge/Git-0F0A1E?style=for-the-badge&logo=git&logoColor=F59E0B)
-![GitHub](https://img.shields.io/badge/GitHub-0F0A1E?style=for-the-badge&logo=github&logoColor=EDE9FE)
-![VS Code](https://img.shields.io/badge/VS_Code-0F0A1E?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7)
-![Postman](https://img.shields.io/badge/Postman-0F0A1E?style=for-the-badge&logo=postman&logoColor=F59E0B)
-![Linux](https://img.shields.io/badge/Linux-0F0A1E?style=for-the-badge&logo=linux&logoColor=EDE9FE)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-0F0A1E?style=for-the-badge&logo=cisco&logoColor=A855F7)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FFD1)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00FFD1)
+![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00FFD1)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FFD1)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FFD1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FFD1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FFD1)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FFD1)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFD1)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00FFD1)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FFD1)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00FFD1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FFD1)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFD1)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FFD1)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00FFD1)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00FFD1)
+![Cisco](https://img.shields.io/badge/Cisco%20CCNA-0D1117?style=for-the-badge&logo=cisco&logoColor=00FFD1)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      📊  ANALYTICS DASHBOARD                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                         📊  GITHUB STATS                                   -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📊%20ANALYTICS%20DASHBOARD&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=📊%20GITHUB%20ANALYTICS&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -357,9 +362,9 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkanani-07&show_icons=true&theme=transparent&title_color=A855F7&icon_color=F59E0B&text_color=EDE9FE&border_color=A855F7&border_radius=14&hide_border=false&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ayushkanani-07&show_icons=true&theme=transparent&title_color=00FFD1&icon_color=00FFD1&text_color=AAFFF0&border_color=00FFD1&border_radius=14&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkanani-07&layout=compact&theme=transparent&title_color=A855F7&text_color=EDE9FE&border_color=A855F7&border_radius=14&langs_count=8" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkanani-07&layout=compact&theme=transparent&title_color=00FFD1&text_color=AAFFF0&border_color=00FFD1&border_radius=14&langs_count=8" height="170"/>
 
 </div>
 
@@ -367,7 +372,7 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushkanani-07&theme=transparent&hide_border=false&border=A855F7&stroke=A855F7&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=EDE9FE&currStreakLabel=A855F7&sideLabels=EDE9FE&dates=888888&background=0F0A1E&border_radius=14" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushkanani-07&theme=transparent&hide_border=false&border=00FFD1&stroke=00FFD1&ring=00FFD1&fire=00FFD1&currStreakNum=FFFFFF&sideNums=AAFFF0&currStreakLabel=00FFD1&sideLabels=AAFFF0&dates=555555&background=0D1117&border_radius=14" width="700"/>
 
 </div>
 
@@ -375,107 +380,72 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkanani-07&theme=react-dark&color=A855F7&line=A855F7&point=F59E0B&area=true&hide_border=false&border_color=A855F7&bg_color=0F0A1E&radius=12" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    COMMIT DISCIPLINE INDEX                          │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  Daily Commits      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   STREAK MAINTAINED    │
-│  Code Reviews       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   BEFORE SHIPPING       │
-│  Message Quality    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ALWAYS MEANINGFUL     │
-│  Branch Hygiene     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CONSISTENTLY CLEAN    │
-│  PR Descriptions    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░   THOROUGH & REVIEWED   │
-│  Refactor Rate      ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░   INTENTIONAL           │
-│                                                                     │
-│  VERDICT: Version control is treated as craft, not housekeeping.   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkanani-07&theme=react-dark&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&hide_border=false&border_color=00FFD1&bg_color=0D1117&radius=12" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🏅  MILESTONE VAULT — CERTIFICATIONS                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🏅  CERTIFICATION VAULT                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🏅%20MILESTONE%20VAULT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🏅%20CERTIFICATION%20VAULT&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified-A855F7?style=for-the-badge&logo=cisco&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-Certified-A855F7?style=for-the-badge&logo=stackshare&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Database](https://img.shields.io/badge/Database%20Systems-Certified-F59E0B?style=for-the-badge&logo=mysql&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Certified-F59E0B?style=for-the-badge&logo=git&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-
-<br/>
+[![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified-00FFD1?style=for-the-badge&logo=cisco&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![Full Stack](https://img.shields.io/badge/Full%20Stack-Certified-00FFD1?style=for-the-badge&logo=stackshare&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![Database](https://img.shields.io/badge/Database%20Systems-Certified-00FFD1?style=for-the-badge&logo=mysql&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Certified-00FFD1?style=for-the-badge&logo=git&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
 
 </div>
 
+<br/>
+
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│          AYUSH KANANI — CERTIFICATION VAULT  ·  7+ EARNED                  │
-│                                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   🥇  Cisco CCNA               ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Network architecture, protocols, subnetting — not just theory    │
-│                                                                             │
-│   🥇  Full Stack Development   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── End-to-end architecture — React to Node to DB                    │
-│                                                                             │
-│   🥇  Database Systems         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Relational + NoSQL design principles                             │
-│                                                                             │
-│   🥇  Git & Version Control    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Professional workflow — branching, PRs, history discipline       │
-│                                                                             │
-│   🥇  Certification #5         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│   🥇  Certification #6         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│   🥇  Certification #7         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│                                                                             │
-│   STATUS: ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  VAULT FULL — NEXT MILESTONE IN QUEUE    │
-│                                                                             │
-│   PHILOSOPHY: Every cert is proof of deliberate practice.                  │
-│               Not collected for the badge. Earned for the depth.           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║          CERTIFICATION VAULT — 7+ EARNED · STILL GROWING        ║
+ ╠══════════════════════════════════════════════════════════════════╣
+ ║                                                                  ║
+ ║  ✅  Cisco CCNA              Network fundamentals — CERTIFIED    ║
+ ║  ✅  Full Stack Development  End-to-End architecture — DONE      ║
+ ║  ✅  Database Systems        Relational + NoSQL — CERTIFIED      ║
+ ║  ✅  Git & Version Control   Professional workflow — DONE        ║
+ ║  ✅  [Certification 5]       Earned ✓                            ║
+ ║  ✅  [Certification 6]       Earned ✓                            ║
+ ║  ✅  [Certification 7]       Earned ✓                            ║
+ ║                                                                  ║
+ ║  STATUS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  VAULT FULL — NEXT IN PROGRESS   ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-> *"Certifications are the receipts. The understanding is what you spend them on."*
+> *"Every certification is proof of deliberate practice. Not just a badge — a milestone."*
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🔬  DEVELOPER DIAGNOSTICS — LIVE                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                      🗄️  DEVELOPER POWER MATRIX                           -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🔬%20DEVELOPER%20DIAGNOSTICS&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🗄️%20DEVELOPER%20POWER%20MATRIX&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -484,169 +454,47 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   AYUSH KANANI — CORE DIAGNOSTICS  ·  v2025.1  ·  All Systems Nominal      │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   FRONTEND_ENGINE    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ELITE 🎯                     │
-│   BACKEND_CORE       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   ADVANCING ⚡                  │
-│   DATABASE_MODULE    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CONFIDENT 🗄️                 │
-│   NETWORKING_STACK   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CCNA CERTIFIED 📡             │
-│   DSA_ENGINE         ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░   GRINDING DAILY 📈             │
-│   SYSTEM_DESIGN      ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   DEEP LEARNING 🧠              │
-│   CLEAN_CODE_INDEX   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   OBSESSIVE STANDARD 🧹        │
-│   UI_PRECISION       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   320px TO 4K VERIFIED 📱      │
-│   PROBLEM_SOLVING    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   METHODICAL 🔍                 │
-│   AMBITION_DRIVE     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   NO CEILING DETECTED 🚀        │
-│                                                                              │
-│   CURRENT_MISSION  : Shipping full stack projects that solve real problems  │
-│                      — not tutorial replicas, not demo clones               │
-│   NEXT_MISSION     : Land a world-class internship. Ship more. Repeat.      │
-│                                                                              │
-│   RUNTIME NOTE     : This developer enters deep-focus mode without notice.  │
-│                      Please commit before interrupting. 🛑                  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ████████████████████████████████████████████████████████████████      ║
+║   ██         AYUSH KANANI — CORE DIAGNOSTICS v2025.1              ██    ║
+║   ████████████████████████████████████████████████████████████████      ║
+║                                                                          ║
+║   FRONTEND_ENGINE        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ELITE 🎯            ║
+║   BACKEND_CORE           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  ADVANCING ⚡         ║
+║   DATABASE_MODULE        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  CONFIDENT 🗄️        ║
+║   NETWORKING_STACK       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  CCNA CERT 📡        ║
+║   DSA_ENGINE             ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  GRINDING 📈         ║
+║   SYSTEM_DESIGN          ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  LEARNING 🧠         ║
+║   CLEAN_CODE_INDEX       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  OBSESSED 🧹        ║
+║   UI_PRECISION           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  NON-NEGOTIABLE 📱  ║
+║   AMBITION_DRIVE         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  UNSTOPPABLE 🚀     ║
+║                                                                          ║
+║   CURRENT_MISSION : Building full stack projects that solve             ║
+║                     real problems — not tutorial replicas               ║
+║   NEXT_MISSION    : Land a world-class internship. Ship more.           ║
+║                                                                          ║
+║   WARNING: Developer enters deep focus mode without notice.             ║
+║   Do not interrupt mid-build. Commit first, then talk. 🛑              ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    📦  BLUEPRINTS IN PRODUCTION                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        🎯  CURRENTLY OPERATING                             -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📦%20BLUEPRINTS%20IN%20PRODUCTION&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-<br/>
-
-> *"I don't count projects by quantity. I count them by whether they would survive contact with a real user."*
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🏗️  PROJECT ALPHA                      │
-│   Full Stack Web Application             │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    React · Node.js · MySQL       │
-│   Type     Real problem. Real scope.     │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░  80%  │
-│                                          │
-│   Features:                              │
-│   ▸ Responsive at every breakpoint       │
-│   ▸ RESTful API with clean endpoints     │
-│   ▸ Normalized relational DB schema      │
-│   ▸ Auth & session management            │
-│                                          │
-│   Verdict: Built to be maintained.       │
-└──────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🔧  PROJECT BETA                       │
-│   Backend API Service                    │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    Express.js · MongoDB · JWT    │
-│   Type     Scalable API design           │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░  60%  │
-│                                          │
-│   Features:                              │
-│   ▸ Modular route architecture           │
-│   ▸ Middleware pipeline designed right   │
-│   ▸ Schema validation on every input     │
-│   ▸ Error handling that makes sense      │
-│                                          │
-│   Verdict: Designed before line 1.       │
-└──────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   📱  PROJECT GAMMA                      │
-│   Responsive Component Library          │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    React.js · CSS3 · HTML5       │
-│   Type     UI precision project          │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░  85%  │
-│                                          │
-│   Features:                              │
-│   ▸ Every component: 320px → 4K          │
-│   ▸ Zero tutorial-clone components       │
-│   ▸ Accessibility-first decisions        │
-│   ▸ Reusable across 3 live projects      │
-│                                          │
-│   Verdict: UI done without shortcuts.    │
-└──────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🗄️  PROJECT DELTA                      │
-│   Database Architecture Study           │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    MySQL · ERD · Normalization   │
-│   Type     Schema design deep-dive       │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  DONE │
-│                                          │
-│   Features:                              │
-│   ▸ 3NF schema with zero redundancy      │
-│   ▸ Indexed for real query performance   │
-│   ▸ Documented for future team members   │
-│   ▸ Migration scripts: clean and atomic  │
-│                                          │
-│   Verdict: Day-1 schema holds on Day 365 │
-└──────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🎯  THE OPERATIONS CENTER                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🎯%20THE%20OPERATIONS%20CENTER&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🎯%20CURRENTLY%20OPERATING&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -657,56 +505,50 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 <td width="33%" align="center">
 
 ```
-◈  BUILDING
-────────────────────
-Full Stack projects
-with real scope.
+ 🔨  BUILDING
+──────────────────
+ Full Stack projects
+ with real scope.
 
-Not tutorial clones.
-Not copy-paste apps.
+ Not tutorial clones.
+ Not copy-paste apps.
 
-Actual problems.
-Actual solutions.
-Actual code quality.
-
-Every commit
-earns its place.
+ Actual problems.
+ Actual solutions.
+ Actual code quality.
 ```
 
 </td>
 <td width="33%" align="center">
 
 ```
-◈  STUDYING
-────────────────────
-DSA — every day.
-No skipping.
-No exceptions.
+ 📚  STUDYING
+──────────────────
+ DSA — every day.
+ No skipping.
 
-System Design.
-Advanced React.
-Architecture.
+ System Design.
+ Advanced React.
+ Architecture.
 
-The foundations
-that outlast every
-framework trend.
+ The foundations
+ that last a career.
 ```
 
 </td>
 <td width="33%" align="center">
 
 ```
-◈  SEEKING
-────────────────────
-Internship roles —
-ones that challenge.
+ 🤝  SEEKING
+──────────────────
+ Internship roles.
 
-Open source PRs
-worth making.
+ Open source PRs
+ worth making.
 
-Builders who care
-about the craft,
-not just the output.
+ Builders who care
+ about the craft,
+ not just the output.
 ```
 
 </td>
@@ -717,106 +559,30 @@ not just the output.
 
 <div align="center">
 
-| 📌 ACTIVE OPERATION | 🔄 STATUS | ⚡ INTENSITY |
+| 📌 AREA | 🔄 STATUS | ⚡ INTENSITY |
 |:---|:---:|:---:|
-| Full Stack Project Development | `IN PROGRESS` | `◈◈◈◈◈◈◈◈◈◈ MAXIMUM` |
-| Data Structures & Algorithms | `DAILY — NO SKIP` | `◈◈◈◈◈◈◈◈░░ HIGH` |
-| System Design Fundamentals | `DEEP STUDY` | `◈◈◈◈◈◈░░░░ FOCUSED` |
-| Advanced React Patterns | `LEARNING` | `◈◈◈◈◈◈◈░░░ HIGH` |
-| Internship Application Track | `ACTIVE` | `◈◈◈◈◈◈◈◈◈◈ MAXIMUM` |
-| Open Source Contributions | `EXPLORING` | `◈◈◈◈░░░░░░ GROWING` |
-| Networking Deep-Dives (CCNA+) | `ONGOING` | `◈◈◈◈◈◈░░░░ CONSISTENT` |
+| Full Stack Project Development | `IN PROGRESS` | `▓▓▓▓▓▓▓▓▓▓ MAX` |
+| Data Structures & Algorithms | `DAILY GRIND` | `▓▓▓▓▓▓▓▓░░ HIGH` |
+| System Design Concepts | `STUDYING` | `▓▓▓▓▓▓░░░░ MID` |
+| Advanced React Patterns | `LEARNING` | `▓▓▓▓▓▓▓░░░ HIGH` |
+| Internship Hunting | `ACTIVE` | `▓▓▓▓▓▓▓▓▓▓ MAX` |
+| Open Source Contributions | `EXPLORING` | `▓▓▓▓░░░░░░ GROWING` |
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   📈  THE GROWTH LEDGER                                 ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📈%20THE%20GROWTH%20LEDGER&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-<br/>
-
-> *"I'm not measuring growth in years. I measure it in the gap between what I understood last month and what I understand today."*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-LEARNING TRAJECTORY — AYUSH KANANI — 2025
-
-  PHASE 1 ── FOUNDATIONS (Completed ✅)
-  ├── C / C++ — Systems fundamentals, memory model
-  ├── Java — OOP deep dive, data structures
-  ├── HTML5 / CSS3 — Semantic markup, responsive grid
-  ├── Git & Version Control — History is a communication tool
-  └── Database Fundamentals — Relational theory, normalization
-
-  PHASE 2 ── FULL STACK CONSTRUCTION (Active ⚡)
-  ├── JavaScript — Core language, async patterns, DOM
-  ├── React.js — Hooks, component composition, state
-  ├── Node.js + Express.js — Server architecture, middleware
-  ├── MySQL + MongoDB — Schema design, indexing, aggregation
-  ├── REST API Design — Clean contracts, HTTP semantics
-  └── Cisco CCNA — Network layer understanding ✅ CERTIFIED
-
-  PHASE 3 ── DEPTH & SCALE (In Progress 🔄)
-  ├── DSA — Daily problem solving, pattern recognition
-  ├── System Design — Scalability, trade-offs, real architecture
-  ├── Advanced React — Performance, patterns, best practices
-  ├── TypeScript — Type safety at scale
-  └── Cloud Fundamentals — Deployment, infrastructure basics
-
-  PHASE 4 ── WORLD-CLASS ENGINEER (Target 🎯)
-  ├── Distributed Systems Design
-  ├── Open Source Leadership
-  ├── Production-Grade Engineering
-  └── Mentoring the next builders from Gujarat 🇮🇳
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 📅 TIMELINE | 🎯 MILESTONE | ✅ STATUS |
-|:---:|:---|:---:|
-| 2022–2023 | Learned C, C++, Java — laid the foundation | `COMPLETE` |
-| 2023 | HTML/CSS/JS — first real UI shipped | `COMPLETE` |
-| 2024 | React, Node, Express, MySQL, MongoDB — full stack built | `COMPLETE` |
-| 2024 | Cisco CCNA — certified in networking | `COMPLETE ✅` |
-| 2024 | 7+ Certifications — earned, not collected | `COMPLETE ✅` |
-| 2025 | DSA + System Design daily grind | `IN PROGRESS 🔄` |
-| 2025 | Internship at a world-class company | `TARGET 🎯` |
-| 2025+ | Ship products that matter at real scale | `INCOMING 🚀` |
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                🏏  THE REAL AYUSH — RUNTIME PROFILE                     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🏏  THE REAL AYUSH — RUNTIME PROFILE                   -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🏏%20THE%20REAL%20AYUSH&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🏏%20THE%20REAL%20AYUSH&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -825,24 +591,21 @@ LEARNING TRAJECTORY — AYUSH KANANI — 2025
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   AYUSH KANANI — LIVE SYSTEM STATUS                                      │
-│                                                                          │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   🧠  BRAIN LOAD         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Processing 24 / 7      │
-│   ☕  CHAI RESERVES      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   Critically Low          │
-│   💻  TABS OPEN          ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Classified              │
-│   🏏  CRICKET QUOTA      ◈◈◈◈░░░░░░░░░░░░░░░░   Scheduled — 5PM daily   │
-│   📚  LEARNING QUEUE     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Perpetually Non-Empty  │
-│   🔥  MOTIVATION LEVEL   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   No Dip Detected        │
-│   🐛  BUGS IN THE WILD   ◈◈◈◈◈◈◈◈░░░░░░░░░░░░   Under Active Hunt       │
-│   🚀  SHIPPING RATE      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   Accelerating           │
-│   🎯  GOAL PROXIMITY     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░   Closing In              │
-│   📡  SIGNAL STRENGTH    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Gujarat → Everywhere   │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ⚡  AYUSH KANANI — LIVE SYSTEM STATUS                                  ║
+║                                                                          ║
+║   🧠  BRAIN LOAD        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Processing 24/7         ║
+║   ☕  CHAI RESERVES     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Refilling                ║
+║   💻  TABS OPEN         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Classified               ║
+║   🏏  CRICKET BREAK     ▓▓▓▓░░░░░░░░░░░░░░░░  Scheduled at 5PM         ║
+║   📚  LEARNING QUEUE    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Never Empty              ║
+║   🔥  MOTIVATION LEVEL  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  No Dip Detected          ║
+║   🐛  BUGS IN THE WILD  ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  Being Hunted             ║
+║   🚀  SHIPPING RATE     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Accelerating             ║
+║   🎯  GOAL PROXIMITY    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  Closing In               ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -851,18 +614,18 @@ LEARNING TRAJECTORY — AYUSH KANANI — 2025
 
 <div align="center">
 
-**◈ A DAY IN AYUSH'S ENGINEERING SCHEDULE ◈**
+**A TYPICAL DAY IN AYUSH.EXE:**
 
-| ⏰ TIMESTAMP | 🔧 OPERATION |
+| ⏰ TIME | 🎯 OPERATION |
 |:---:|:---|
-| `06:00 AM` | Boot — review yesterday's code with fresh eyes and no excuses |
-| `08:00 AM` | Deep work block — new feature, new concept, zero distractions |
-| `12:00 PM` | *"One more function then I'll eat"* — every. single. day. |
-| `02:00 PM` | Learning session — DSA problem or system design chapter |
+| `06:00 AM` | Boot sequence — review yesterday's code with fresh eyes |
+| `08:00 AM` | Deep work block — new feature or concept. No distractions. |
+| `12:00 PM` | *"One more function then I'll eat"* — classic Ayush move, every day |
+| `02:00 PM` | Learning session — DSA problem or a new system design chapter |
 | `05:00 PM` | Cricket ground 🏏 — the mind compiles better after a boundary |
-| `08:00 PM` | Evening build — usually the most creative and productive window |
-| `10:30 PM` | Final commits pushed. Messages written clean. Log reviewed. |
-| `12:00 AM` | *"Just one more idea to prototype before sleep."* — always. |
+| `08:00 PM` | Evening build session — usually the most creative window |
+| `10:30 PM` | Final commits pushed. Git log reviewed. Commit message written clean. |
+| `12:00 AM` | *"Just one more idea to test before I sleep."* — every. single. night. |
 
 </div>
 
@@ -870,38 +633,36 @@ LEARNING TRAJECTORY — AYUSH KANANI — 2025
 
 <div align="center">
 
-**◈ REAL COMMITS FROM AYUSH'S REPOSITORY HISTORY ◈**
+**🔍 ACTUAL COMMIT MESSAGES FROM AYUSH'S CODEBASE:**
 
 ```javascript
-// git log --oneline --author="ayushkanani-07" (selected highlights)
+// git log --oneline (selected highlights)
 
-a1f3c2e  feat: responsive navbar — verified at 320px, 768px, 1440px, 4K
-b2e8d91  fix: 2px alignment inconsistency in card grid. 2px matters. always.
-c4a1f33  refactor: renamed 14 variables — they now describe what they hold
-d7b99fe  chore: removed every commented-out block — if not running, not here
-e3d44a0  style: spacing audit across 5 components — all consistent now
-f9c20b1  docs: commit message my future self will actually understand
-g5a71d3  feat: database schema v2 — designed properly this time
-h8f003e  fix: traced bug to the day-1 schema. Redesigned from scratch.
-i2c90a4  perf: reduced re-renders by 40% — measured, not guessed
-j7d33b5  test: added validation for edge case no one thought to check
+a1f3c2e  feat: add responsive navbar — looks good at 320px AND 4K
+b2e8d91  fix: alignment was 2px off. 2px matters. fixed.
+c4a1f33  refactor: variable names now actually describe what they hold
+d7b99fe  chore: clean up commented code — if it's not running, it's gone
+e3d44a0  style: spacing inconsistent in 3 components. not anymore.
+f9c20b1  docs: wrote commit message my future self will actually understand
+g5a71d3  feat: database schema v2 — designed it right this time
+h8f003e  fix: found the bug. it was the schema from day one. redesigned.
 ```
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  📜  THE BUILDER'S MANIFESTO                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                     🌟  VISION STATEMENT & PRINCIPLES                     -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📜%20THE%20BUILDER'S%20MANIFESTO&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🌟%20VISION%20%26%20PRINCIPLES&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -914,29 +675,29 @@ j7d33b5  test: added validation for edge case no one thought to check
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│              AYUSH KANANI — LONG-TERM DIRECTIVE · v2025                     │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   LEARNING_ENGINE      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   PERPETUAL — never paused  │
-│   SHIPPING_FREQUENCY   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CONSISTENT — daily rate    │
-│   CODE_QUALITY_BAR     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   NEVER DROPS — non-negotiable│
-│   CURIOSITY_LEVEL      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   INFINITE — no topic off-limits│
-│   TEAM_READINESS       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   PRIMED — built for collab  │
-│   CAREER_TRAJECTORY    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ASCENDING — no ceiling set │
-│                                                                              │
-│   WHERE THIS IS ALL GOING:                                                  │
-│   ◈ SDE at a company solving real, meaningful problems at real scale        │
-│   ◈ Building products that users rely on — and come back to                 │
-│   ◈ Mentoring the next generation of developers from Gujarat 🇮🇳           │
-│   ◈ Proving that deliberate, consistent practice always compounds           │
-│                                                                              │
-│   NOTE: This developer does not have an upper bound.                        │
-│   The build is still in progress. Revisit this profile often. 🔄           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ████████████████████████████████████████████████████████████████      ║
+║   ██        AYUSH.EXE — CORE VISION & LONG-TERM DIRECTIVE          ██   ║
+║   ████████████████████████████████████████████████████████████████      ║
+║                                                                          ║
+║   LEARNING_ENGINE        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PERPETUAL  🔄       ║
+║   SHIPPING_FREQUENCY     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONSISTENT ⚡        ║
+║   CODE_QUALITY_BAR       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  NEVER DROPS 🎯      ║
+║   CURIOSITY_LEVEL        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  INFINITE   🌀        ║
+║   TEAM_READINESS         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PRIMED     🤝        ║
+║   CAREER_TRAJECTORY      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ASCENDING  🚀        ║
+║                                                                          ║
+║   WHERE THIS IS GOING:                                                   ║
+║   ▸ SDE at a company solving problems at real, meaningful scale          ║
+║   ▸ Building products that users rely on and come back to                ║
+║   ▸ Mentoring the next generation of developers from Gujarat             ║
+║   ▸ Proving that deliberate, consistent practice always compounds        ║
+║                                                                          ║
+║   NOTE: This developer does not have a ceiling.                          ║
+║   The build is still in progress. Check back often. 🔄                  ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -945,86 +706,68 @@ j7d33b5  test: added validation for edge case no one thought to check
 
 <div align="center">
 
-**◈ ENGINEERING PRINCIPLES I ACTUALLY LIVE BY ◈**
+**⚡ ENGINEERING PRINCIPLES I ACTUALLY LIVE BY:**
 
-<br/>
-
-> 🔶 `"Working code is the starting line. Good code is where the real work begins."`
+> 🔷 `"Working code is the starting line. Good code is the finish line."`
 >
-> 🔶 `"Every layout you build must hold at 320px and 1920px without compromise."`
+> 🔷 `"Every layout you build should hold at 320px and 1920px. No exceptions."`
 >
-> 🔶 `"A variable name that explains itself is worth ten comments that explain around it."`
+> 🔷 `"A variable name that explains itself is worth ten comments."`
 >
-> 🔶 `"Ship it imperfect. Then iterate until it is right. Waiting for perfect means never shipping."`
+> 🔷 `"Ship it imperfect. Then iterate until it is right. Never wait for perfect to ship."`
 >
-> 🔶 `"The database schema you design on day one haunts your team on day 1000. Get it right."`
+> 🔷 `"The database schema you design on day one haunts you on day 1000. Design it well."`
 >
-> 🔶 `"Reading someone else's clean code is a masterclass. Do it every week."`
+> 🔷 `"Reading someone else's clean code is a masterclass. Do it often."`
 >
-> 🔶 `"Bugs are just requirements you haven't read carefully enough. Re-read. Then fix."`
+> 🔷 `"Bugs are just unread requirements. Re-read. Then fix."`
 >
-> 🔶 `"A commit message is a letter to your future team. Write something worth reading."`
+> 🔷 `"The commit message is a letter to your future team. Make it worth reading."`
 >
-> 🔶 `"The best engineers I've studied don't just write code. They communicate through it."`
+> 🔷 `"Dark mode is not aesthetic preference. It is a moral stance."`
 >
-> 🔶 `"If the component isn't responsive, it is simply not finished. No exceptions."`
->
-> 🔶 `"Deliberate practice over frantic grinding. Consistency over bursts. Depth over breadth."`
->
-> 🔶 `"Understand the network your code runs on. It is not someone else's problem."`
+> 🔷 `"If the component isn't responsive, it isn't done."`
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  🔓  OPEN SOURCE & COLLABORATION                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                    🤝  OPEN SOURCE & COLLABORATION                        -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🔓%20OPEN%20SOURCE%20%26%20COLLABORATION&fontSize=24&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=🤝%20OPEN%20SOURCE%20%26%20COLLAB&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 <br/>
 
-> *"The best kind of code is the kind someone else can build on top of."*
+> *"Code that helps others is the highest form of code."*
 
 <br/>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Open Source](https://img.shields.io/badge/Open_Source-Committed-A855F7?style=for-the-badge&logo=opensourceinitiative&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Collaborate](https://img.shields.io/badge/Collaboration-Open-F59E0B?style=for-the-badge&logo=handshake&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![Open Source](https://img.shields.io/badge/Open_Source-Enthusiast-00FFD1?style=for-the-badge&logo=opensourceinitiative&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
+[![Collaborate](https://img.shields.io/badge/Collaboration-Open-00FFD1?style=for-the-badge&logo=handshake&logoColor=0D1117&labelColor=0D1117)](https://github.com/ayushkanani-07)
 
 </div>
 
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│                  OPEN SOURCE MISSION REPORT — 2025                          │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   PRs & Contributions    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   ONGOING — always open    │
-│   Issue Reporting        ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   GROWING — quality > qty  │
-│   Code Reviews           ◈◈◈◈◈◈◈◈░░░░░░░░░░░░   LEARNING — reading code   │
-│   Own Projects OSS'd     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   DONE — public & useful   │
-│   Collaborations Open    ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   OPEN — serious builders   │
-│                                                                              │
-│   I collaborate with builders who:                                          │
-│   ◈ Take code quality seriously — not just make it work                    │
-│   ◈ Write documentation their teammates can actually use                   │
-│   ◈ Build things that solve problems, not just add to portfolios           │
-│   ◈ Treat version control as communication, not a backup tool              │
-│                                                                              │
-│   If that sounds like you — let's build something worth building.          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║               OPEN SOURCE MISSION REPORT                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  PRs & Contributions       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  ONGOING 🔥   ║
+║  Issue Reporting           ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  GROWING 📈   ║
+║  Code Reviews              ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  LEARNING 🧠  ║
+║  Own Projects OSS'd        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  DONE ✅      ║
+║  Collaborations            ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  OPEN 🤝      ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -1034,126 +777,71 @@ j7d33b5  test: added validation for edge case no one thought to check
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FFD1&height=3&section=header" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  🧭  THE NAVIGATOR — RECRUITER EDITION                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                      📡  FINAL TRANSMISSION                               -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🧭%20FOR%20THE%20RECRUITERS&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   If you're a recruiter reading this profile:                               │
-│                                                                              │
-│   You just reviewed a developer who —                                       │
-│                                                                              │
-│   ◈ Builds real full stack products. Not tutorial replicas.                 │
-│   ◈ Takes responsive UI non-negotiable — 320px to 4K, no excuses.          │
-│   ◈ Earned 7+ certifications while building and learning simultaneously.   │
-│   ◈ Holds a Cisco CCNA — understands the network his code runs on.         │
-│   ◈ Designs database schemas that hold up at day 1 and day 365.            │
-│   ◈ Writes commit messages that communicate, not just record.               │
-│   ◈ Shows up every single day. The streak is not a vanity metric.          │
-│   ◈ Understands the full stack — front to back to network layer.           │
-│                                                                              │
-│   What you would get on your team:                                          │
-│   → Someone who owns their work end-to-end                                  │
-│   → Someone who ships clean, not just fast                                  │
-│   → Someone who reads the docs before asking the question                   │
-│   → Someone whose codebase you'd want to inherit                            │
-│   → Someone who treats your users with the same respect as the code        │
-│                                                                              │
-│   Reach out. Seriously.                                                      │
-│   ayushkanani2601@gmail.com  ·  linkedin.com/in/ayush-kanani               │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     🌠  FINAL TRANSMISSION                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🌠%20FINAL%20TRANSMISSION&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=62&text=📡%20FINAL%20TRANSMISSION&fontSize=28&fontColor=00FFD1&animation=fadeIn" width="100%"/>
 
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│         TRANSMISSION RECEIVED — YOU REACHED THE END OF AYUSH KANANI        │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   If you're a recruiter here:                                               │
-│   You just read the profile of someone who will not waste your time         │
-│   or your team's. Reach out. I'm ready.                                     │
-│                                                                              │
-│   If you're a developer here:                                               │
-│   Let's build something together. Not another todo app.                     │
-│   Something with a real problem behind it.                                  │
-│                                                                              │
-│   If you're a student from Gujarat, India 🇮🇳 just starting out:          │
-│   This was built one commit at a time, from the same place you're in.      │
-│   Consistent practice really does compound. Trust the process.              │
-│                                                                              │
-│   If you scrolled here out of pure curiosity:                               │
-│   Respect. That's developer instinct. You belong in this field.             │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   — Ayush Kanani  ·  ayushkanani-07                                         │
-│     Full Stack Developer  ·  B.Tech CSE  ·  CSPIT CHARUSAT                 │
-│     CCNA Certified  ·  Gujarat, India 🇮🇳                                  │
-│                                                                              │
-│     "The future belongs to those disciplined enough to build it."           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   ── TRANSMISSION RECEIVED — YOU REACHED THE END OF AYUSH KANANI ──     ║
+║                                                                          ║
+║   If you're a recruiter reading this:                                    ║
+║   You just scanned the profile of a developer who —                     ║
+║     ▸ Ships real projects. Not just tutorial clones.                     ║
+║     ▸ Takes design seriously — responsive UI is non-negotiable.         ║
+║     ▸ Earned 7+ certifications while building and learning full time.   ║
+║     ▸ Understands the full stack — front to back to network.            ║
+║     ▸ Shows up every single day and commits to the craft.               ║
+║     ▸ Has a CCNA cert because networking matters, not just to flex.     ║
+║                                                                          ║
+║   If you're a developer reading this:                                    ║
+║   Let's build something together. Seriously.                             ║
+║   Something worth building. Not another todo app.                        ║
+║                                                                          ║
+║   If you scrolled all the way here just out of curiosity:               ║
+║   Respect. You're the kind of person I want in my circle.               ║
+║                                                                          ║
+║   — Ayush Kanani  ·  ayushkanani-07                                     ║
+║     Full Stack Developer  ·  B.Tech CSE  ·  CSPIT CHARUSAT             ║
+║     Gujarat, India 🇮🇳                                                   ║
+║                                                                          ║
+║     "The future belongs to those disciplined enough to build it."       ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0F0A1E)](https://www.linkedin.com/in/ayush-kanani)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-F59E0B?style=for-the-badge&logo=instagram&logoColor=0F0A1E&labelColor=0F0A1E)](https://www.instagram.com/ayush_.k._07)
-[![Email](https://img.shields.io/badge/Drop_an_Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F0A1E&labelColor=0F0A1E)](mailto:ayushkanani2601@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/ayushkanani-07)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-00FFD1?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/ayush-kanani)
+[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-00FFD1?style=for-the-badge&logo=instagram&logoColor=0D1117)](https://www.instagram.com/ayush_.k._07)
+[![Email](https://img.shields.io/badge/Drop_an_Email-00FFD1?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:ayushkanani2601@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24,30&height=200&section=footer&text=AYUSH%20KANANI%20%E2%80%94%20UNTIL%20THE%20NEXT%20COMMIT&fontSize=22&fontColor=F59E0B&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=AYUSH%20KANANI%20%E2%80%94%20TRANSMISSION%20COMPLETE&fontSize=24&fontColor=00FFD1&animation=twinkling&fontAlignY=65" width="100%"/>
 
 <br/>
 
-*⭐ If this profile left an impression — a star on any repo keeps the momentum going. ⭐*
+*⭐ If this profile made an impression — a star on any repo keeps the momentum going. ⭐*
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔍 You found the bottom layer. That is pure developer instinct at work.        -->
-<!-- UNLOCKED: ayushkanani-07 — depth seeker badge                                  -->
-<!-- REWARD: +9999 XP · +1 respect · appreciation for actually reading all of this  -->
-<!-- ayushkanani-07 :: return Ok(()); — until the next commit 🚀                    -->
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
+<!-- ══ HIDDEN TERMINAL ════════════════════════════════════════════════════ -->
+<!-- 🔍 You found the debug layer. That's pure developer instinct.          -->
+<!-- REWARD: +9999 XP · +1 respect point · ayushkanani-07 fan unlocked     -->
+<!-- ayushkanani-07 :: process.exit(0) — until the next commit 🚀           -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
 </div>
 
@@ -1161,8 +849,8 @@ j7d33b5  test: added validation for edge case no one thought to check
 
 <div align="center">
 
-**Built with 🏗️ full-stack precision · ☕ strong chai · 🏏 cricket-fuelled clarity · 📡 network-layer awareness**
+**Built with 🌐 full-stack precision · ☕ strong chai · 🏏 cricket-fuelled creativity**
 
-*© 2025 Ayush Kanani · ayushkanani-07 · Crafted deliberately, not generated carelessly · Gujarat, India 🇮🇳*
+*© 2025 Ayush Kanani · ayushkanani-07 · All systems nominal · Gujarat, India 🇮🇳*
 
 </div>
