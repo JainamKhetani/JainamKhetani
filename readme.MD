@@ -1,53 +1,108 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║      AYUSH KANANI  ·  ayushkanani-07  ·  THE ARCHITECT  ·  2025        ║ -->
-<!-- ║      CSPIT CHARUSAT  ·  B.Tech CSE  ·  GUJARAT, INDIA  🇮🇳             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ████████████████████████████████████████████████████████████████████████ -->
+<!-- ██                  JAINAM.EXE — SYSTEM INITIALIZING                 ██ -->
+<!-- ████████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=280&color=gradient&customColorList=12,20,24,30&text=AYUSH%20KANANI&fontSize=82&fontColor=F59E0B&stroke=A855F7&strokeWidth=3&animation=fadeIn&desc=SOFTWARE%20ARCHITECT%20IN%20PROGRESS%20%E2%80%A2%20CSPIT%20CHARUSAT%20%E2%80%A2%20GUJARAT%20%F0%9F%87%AE%F0%9F%87%B3&descSize=16&descAlignY=80&descColor=EDE9FE" width="100%"/>
+<!-- ANIMATED NEON DIVIDER TOP -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=JAINAM%20KHETANI&fontSize=70&fontColor=ff007f&stroke=ff007f&strokeWidth=2&animation=twinkling&desc=FULL%20STACK%20%7C%20AI%20EXPLORER%20%7C%20OPEN%20SOURCE%20%7C%20FUTURE%20SDE&descSize=18&descAlignY=75&descColor=ff4d6d" width="100%"/>
+
+</div>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=1000&color=FF0080&center=true&vCenter=true&width=900&lines=JAINAM_OS+v3.0;CYBER+CORE+ONLINE;FULL+STACK+DEVELOPER;OPEN+SOURCE+WARRIOR" />
 
 </div>
 
-<div align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="8">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=980&lines=◈+Crafting+Full+Stack+solutions+—+front+to+back+to+network;◈+React+·+Node.js+·+Java+·+MySQL+·+MongoDB+·+Express;◈+CCNA+Certified+·+7%2B+Milestones+Earned+·+Still+Compiling;◈+Building+products+with+purpose%2C+not+just+with+code;◈+Responsive+UI+is+the+baseline%2C+not+the+bonus;◈+Open+to+Internships+·+Collaborations+·+Good+Problems;◈+Gujarat%2C+India+🇮🇳+·+CSPIT+CHARUSAT+·+B.Tech+CSE" />
+<br>
 
-</div>
+```diff
+⚡ SYSTEM BOOT SEQUENCE INITIALIZED
 
-<br/>
++ Neural Engine        :: ACTIVE
++ Coffee Levels        :: MAXIMUM
++ Open Source Mode     :: ENABLED
++ AI Exploration       :: IN PROGRESS
++ Hackathon Spirit     :: OVERCLOCKED
 
-<div align="center">
+- Sleep Schedule       :: NOT FOUND
+- Bug Count            :: Classified
 
-<a href="https://github.com/ayushkanani-07">
-  <img src="https://komarev.com/ghpvc/?username=ayushkanani-07&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F0A1E"/>
-</a>
-&nbsp;
-<a href="https://github.com/ayushkanani-07?tab=followers">
-  <img src="https://img.shields.io/github/followers/ayushkanani-07?style=for-the-badge&color=A855F7&labelColor=0F0A1E&logo=github&label=FOLLOWERS"/>
-</a>
-&nbsp;
-<a href="https://github.com/ayushkanani-07?tab=stars">
-  <img src="https://img.shields.io/github/stars/ayushkanani-07?style=for-the-badge&color=F59E0B&labelColor=0F0A1E&logo=github&label=STARS"/>
-</a>
-
-</div>
-
-<br/>
+> STATUS :: ONLINE
+> MODE   :: CHAOS_DRIVEN_DEVELOPMENT
+> BUILD  :: JAINAM_OS v3.0
+```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+# ⚡ WELCOME TO JAINAM.EXE — FINAL BOSS OF GITHUB ⚡
+
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🏛️  THE ARCHITECT'S BLUEPRINT                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF007F&background=00000000&center=true&vCenter=true&repeat=true&width=800&height=60&lines=🎯+Hackathon+Warrior;🤖+AI+Explorer;⚡+Full+Stack+Developer;🚀+Future+SDE+@+Top+Company" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JainamKhetani&color=ff007f&style=for-the-badge&label=PROFILE+SCANS"/>
+
+<img src="https://img.shields.io/github/followers/JainamKhetani?style=for-the-badge&color=ff007f&labelColor=0d0d0d&logo=github&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/stars/JainamKhetani?style=for-the-badge&color=ff007f&labelColor=0d0d0d&logo=github&label=STARS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5&section=header" width="100%"/>
+
+</div>
+
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🏛️%20THE%20ARCHITECT'S%20BLUEPRINT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<!-- ANIMATED TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF007F&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=%E2%9A%A1+Full+Stack+Developer+%E2%9A%A1;%F0%9F%A4%96+AI+Explorer+%26+Builder;%F0%9F%94%A5+Open+Source+Enthusiast;%F0%9F%9A%80+Future+SDE+%40+Top+Company;%F0%9F%8E%AF+Hackathon+Warrior;%F0%9F%A7%A0+B.Tech+CSE+Student;%F0%9F%8C%9F+Turning+Coffee+into+Code;%F0%9F%92%BB+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- PROFILE STAT BADGES -->
+<a href="https://github.com/JainamKhetani">
+  <img src="https://komarev.com/ghpvc/?username=JainamKhetani&color=ff007f&style=for-the-badge&label=👁️+PROFILE+SCANS" alt="profile views"/>
+</a>
+<a href="https://github.com/JainamKhetani?tab=followers">
+  <img src="https://img.shields.io/github/followers/JainamKhetani?style=for-the-badge&color=ff007f&labelColor=0d0d0d&logo=github&label=⚡+FOLLOWERS" alt="followers"/>
+</a>
+<a href="https://github.com/JainamKhetani?tab=stars">
+  <img src="https://img.shields.io/github/stars/JainamKhetani?style=for-the-badge&color=ff007f&labelColor=0d0d0d&logo=github&label=🌟+STARS+EARNED" alt="stars"/>
+</a>
+
+<br/><br/>
+
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4&section=header&reversal=false" width="100%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      🧠  ABOUT ME — NEURAL PROFILE                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🧠%20DEVELOPER%20IDENTITY%20CARD&fontSize=24&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -57,102 +112,86 @@
 <tr>
 <td width="50%" valign="top">
 
-```toml
-# ┌─────────────────────────────────────┐
-# │   AYUSH.CONFIG — release 2025.1     │
-# └─────────────────────────────────────┘
+```yaml
+# ╔══ JAINAM.PROFILE ══╗
+# Neural Identity Card v2.0
 
-[identity]
-name          = "Ayush Kanani"
-handle        = "ayushkanani-07"
-archetype     = "Full Stack Developer"
-rank          = "Rising → Elite"
-threat_level  = "EXTREMELY SERIOUS"
-location      = "Gujarat, India 🇮🇳"
+developer:
+  name: "Jainam Khetani"
+  alias: "JainamKhetani"
+  class: "⚡ Chaotic Full-Stack Hacker"
+  level: 9999
+  xp: "∞ (still grinding)"
 
-[education]
-institute     = "CSPIT, CHARUSAT University"
-degree        = "B.Tech — Computer Science Engineering"
-status        = "Active — Building While Studying"
+education:
+  degree: "B.Tech — CSE"
+  mode: "Survival Mode ON 📚"
 
-[mission]
-primary       = "Become a world-class Software Engineer"
-current       = "Building full stack apps — real scope"
-studying      = "DSA · System Design · Advanced React"
-seeking       = "Internships · Collabs · Open Source"
-available     = true
+status:
+  currently: "Building something insane 🔨"
+  looking_for: "Internships & Collabs 🤝"
+  open_to: "Hackathons, Open Source, AI"
 
-[stack]
-frontend      = ["React.js", "JavaScript", "HTML5", "CSS3"]
-backend       = ["Node.js", "Express.js", "REST APIs"]
-databases     = ["MySQL", "MongoDB", "DB Design"]
-languages     = ["Java", "C", "C++", "Python"]
-tools         = ["Git", "GitHub", "VS Code", "Postman"]
+powers:
+  - Full Stack Sorcery 🌐
+  - AI Exploration 🤖
+  - Open Source Grind 🔓
+  - UI Obsession 🎨
+  - Hackathon Warrior 🏆
 
-[certifications]
-earned        = 7
-flagship      = "Cisco CCNA — Network Architecture"
-status        = "Vault growing. Never stopping."
+personality:
+  - ambitious: true
+  - hardworking: true
+  - chaotic_energy: MAXIMUM
+  - coffee_dependency: CRITICAL
+  - sleep: "what is that?"
+  - anime_fan: true
+  - debugger_mode: "print() everywhere"
 
-[principles]
-design_first  = true
-responsive    = "non-negotiable"
-shortcuts     = 0
-tutorial_clones = 0
-commit_style  = "intentional, always"
+motto: "Ship fast, break things,
+        fix things, repeat. 🔄"
 ```
 
 </td>
 <td width="50%" valign="top">
 
-```rust
-// ayush_kanani.rs — Developer Profile v2025.1
+```json
+{
+  "⚡ SYSTEM_DIAGNOSTICS": {
+    "CORE": "Jainam Khetani",
+    "BUILD": "B.Tech CSE v4.0",
+    "THREAT_LEVEL": "MAXIMUM_NERD"
+  },
 
-struct AyushKanani {
-    name:    &'static str,
-    alias:   &'static str,
-    college: &'static str,
-    degree:  &'static str,
+  "🔋 POWER_STATS": {
+    "Frontend_Mastery":  "█████████░ 90%",
+    "Backend_Skill":     "████████░░ 80%",
+    "AI_Knowledge":      "███████░░░ 70%",
+    "DSA_Grind":         "████████░░ 75%",
+    "Open_Source":       "█████████░ 88%",
+    "UI_UX_Taste":       "█████████░ 92%",
+    "Debugging_Pain":    "██████████ 99%",
+    "Coffee_Consumed":   "██████████ ∞%"
+  },
+
+  "🎮 DEVELOPER_CLASS": {
+    "primary":   "Full Stack Architect",
+    "secondary": "AI Explorer",
+    "hidden":    "Chaos Engineer"
+  },
+
+  "🌍 LOCATION": "Gujarat, India 🇮🇳",
+  "📡 SIGNAL":   "Always Online",
+  "🧬 DNA":      "Code + Coffee + Caffeine",
+
+  "FUN_FACTS": [
+    "Debugs with print() unashamed",
+    "Git commit messages are haikus",
+    "Dark mode or no mode",
+    "Tabs > Spaces (controversial)",
+    "Has 47 open browser tabs rn"
+  ]
 }
-
-impl AyushKanani {
-    fn core_strengths(&self) -> Vec<&str> {
-        vec![
-            "Full Stack Architecture   🏗️",
-            "Component-Driven UI       ⚛️",
-            "Database Schema Design    🗄️",
-            "Network Fundamentals      📡",
-            "Responsive UI Precision   📱",
-            "Clean Code Obsession      🧹",
-            "Version Control Fluency   🌿",
-        ]
-    }
-
-    fn engineering_code(&self) -> &str {
-        "Design first.
-         Build right.
-         Iterate relentlessly.
-         Ship deliberately."
-    }
-
-    fn what_i_dont_do(&self) -> Vec<&str> {
-        vec![
-            "Tutorial clones",
-            "Copy-paste solutions",
-            "Sloppy variable names",
-            "Skipping responsive checks",
-            "Giving up mid-build",
-        ]
-    }
-
-    fn goal(&self) -> &str {
-        "Build software my future team
-         would be proud to maintain. 🎯"
-    }
-}
-
-// STATUS: impl block never finishes.
-// There is always one more method to add.
 ```
 
 </td>
@@ -163,146 +202,331 @@ impl AyushKanani {
 
 <div align="center">
 
-| 🔩 CORE MODULE | ⚡ CHARGE | 🏷️ CLASSIFICATION |
-|:---|:---:|:---:|
-| ⚛️ React.js & Frontend | `◈◈◈◈◈◈◈◈◈░` 88% | `ADVANCED` |
-| 🌐 Full Stack Development | `◈◈◈◈◈◈◈◈◈░` 85% | `PROFICIENT` |
-| ☕ Java & OOP | `◈◈◈◈◈◈◈◈░░` 80% | `STRONG` |
-| 🗄️ MySQL & DB Design | `◈◈◈◈◈◈◈◈◈░` 83% | `CONFIDENT` |
-| 📡 Networking (CCNA) | `◈◈◈◈◈◈◈◈░░` 80% | `CERTIFIED` |
-| 🧹 Clean Code Index | `◈◈◈◈◈◈◈◈◈◈` ∞% | `OBSESSIVE` |
-| 🚀 Ambition Drive | `◈◈◈◈◈◈◈◈◈◈` ∞% | `UNSTOPPABLE` |
+<!-- DEVELOPER POWER METER -->
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      🌐  CONNECT & UPLINK                               ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🌐%20CONNECT%20%26%20UPLINK&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ayushkanani--07-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Kanani-A855F7?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0F0A1E)](https://www.linkedin.com/in/ayush-kanani)
-[![Instagram](https://img.shields.io/badge/Instagram-ayush_.k._07-F59E0B?style=for-the-badge&logo=instagram&logoColor=0F0A1E&labelColor=0F0A1E)](https://www.instagram.com/ayush_.k._07)
-[![Email](https://img.shields.io/badge/Email-Reach%20Me-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F0A1E&labelColor=0F0A1E)](mailto:ayushkanani2601@gmail.com)
-
-<br/>
-
-| 📶 CHANNEL | 🔗 DESTINATION | 🟢 STATUS |
+| ⚡ ATTRIBUTE | POWER LEVEL | STATUS |
 |:---:|:---:|:---:|
-| 🐙 GitHub | [ayushkanani-07](https://github.com/ayushkanani-07) | `Commits daily — always shipping` |
-| 💼 LinkedIn | [ayush-kanani](https://www.linkedin.com/in/ayush-kanani) | `Open to opportunities` |
-| 📸 Instagram | [ayush\_.k.\_07](https://www.instagram.com/ayush_.k._07) | `Online — occasional behind-the-build` |
-| 📧 Email | [ayushkanani2601@gmail.com](mailto:ayushkanani2601@gmail.com) | `Responds fast. Always.` |
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🛠️  THE CRAFTSMAN'S TOOLKIT                           ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🛠️%20THE%20CRAFTSMAN'S%20TOOLKIT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+| 🌐 Web Dev | `████████████████████` 99% | `GODMODE` |
+| 🤖 AI/ML | `████████████████░░░░` 80% | `ASCENDING` |
+| 🔓 Open Source | `█████████████████░░░` 85% | `VETERAN` |
+| 🎨 UI/UX | `██████████████████░░` 90% | `ELITE` |
+| 🏆 Hackathons | `█████████████████░░░` 85% | `WARRIOR` |
+| ☕ Coffee | `████████████████████` ∞% | `ADDICTED` |
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      🌐  SOCIAL COMMAND CENTER                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🌐%20CONNECT%20TO%20THE%20NETWORK&fontSize=24&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> **[ ESTABLISH LINK — JAINAM.EXE IS LISTENING ]**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT_NOW-ff007f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/jainam-khetani)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW_ME-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/JainamKhetani)
+[![Gmail](https://img.shields.io/badge/Gmail-SEND_SIGNAL-ff007f?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:jainam.khetani@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ENTER_MATRIX-ff007f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://jainamkhetani.dev)
+[![Discord](https://img.shields.io/badge/Discord-JOIN_SERVER-ff007f?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  📡 NETWORK UPLINK STATUS                                ║
+║  ─────────────────────────────────────────────────────  ║
+║  LinkedIn  ●  ONLINE   — Open to: Opportunities & DMs   ║
+║  GitHub    ●  ONLINE   — Status: Committing daily        ║
+║  Gmail     ●  ONLINE   — Response: < 24 hours            ║
+║  Portfolio ●  ONLINE   — Loading: Insane projects        ║
+║                                                          ║
+║  💬 "If you have a cool project, HIT ME UP."            ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      ⚒️  TECH ARSENAL — WEAPONS OF MASS CREATION       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=⚒️%20TECH%20ARSENAL&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> *"A craftsman is only as good as their tools. These are mine."*
+
+</div>
+
+<br/>
+
+<!-- LANGUAGES -->
+<details open>
+<summary><b>🔤 LANGUAGES — The Tongues I Speak</b></summary>
+<br/>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FF007F?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF007F?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF007F?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF007F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF007F?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF007F?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css&theme=dark&perline=6" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- FRONTEND -->
+<details open>
+<summary><b>🌐 FRONTEND — Visual Chaos Engineering</b></summary>
+<br/>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-FF007F?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-FF007F?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-FF007F?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-FF007F?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-FF007F?style=for-the-badge&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF007F?style=for-the-badge&logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-FF007F?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,threejs&theme=dark&perline=6" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- BACKEND -->
+<details open>
+<summary><b>⚙️ BACKEND — The Engine Room</b></summary>
+<br/>
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-FF007F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-FF007F?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF007F?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF007F?style=for-the-badge&logo=postman&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-FF007F?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=6" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- DATABASES -->
+<details open>
+<summary><b>🗄️ DATABASES — Where Data Lives and Dies</b></summary>
+<br/>
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-FF007F?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF007F?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FF007F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FF007F?style=for-the-badge&logo=firebase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF007F?style=for-the-badge&logo=redis&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis&theme=dark&perline=6" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- AI/ML -->
+<details open>
+<summary><b>🤖 AI/ML — The Neural Path</b></summary>
+<br/>
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF007F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF007F?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF007F?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF007F?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF007F?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FF007F?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF007F?style=for-the-badge&logo=numpy&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=6" />
+
+</div>
+</details>
+
+<br/>
+
+<!-- TOOLS & DEVOPS -->
+<details open>
+<summary><b>🛠️ TOOLS & DEVOPS — My Utility Belt</b></summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF007F?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF007F?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF007F?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-FF007F?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-FF007F?style=for-the-badge&logo=netlify&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF007F?style=for-the-badge&logo=linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF007F?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=git,docker,githubactions,vscode,postman,vercel,linux,figma&theme=dark&perline=8" />
+
+</div>
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    🚀  PROJECT SHOWCASE — BATTLE RECORD                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🚀%20PROJECT%20SHOWCASE&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> *"Every project is a new world built from nothing."*
+
+</div>
+
+<br/>
+
+<!-- PROJECT 1 -->
+<table align="center" border="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-**◈ FRONTEND LAYER**
+### 🌾 Krushi Kram
+**`[ AGRI-TECH COMMAND CENTER ]`**
 
-```ini
-[HTML5 / CSS3]
-proficiency  = 95%
-verdict      = EXPERT — baseline, never skipped
+> An intelligent agricultural platform bridging the gap between farmers and modern technology. Empowers rural communities through AI-driven insights.
 
-[JavaScript]
-proficiency  = 90%
-verdict      = STRONG — core language, daily use
+**What it does:**
+- 🌱 Smart crop recommendation engine
+- 💧 Soil health monitoring system
+- 📊 Market price prediction via ML
+- 🗺️ Region-wise analytics dashboard
 
-[React.js]
-proficiency  = 88%
-verdict      = ADVANCED — hooks, state, components
+**Tech Weapons Used:**
 
-[Responsive UI]
-proficiency  = 95%
-verdict      = NON-NEGOTIABLE — 320px to 4K
-```
+![React](https://img.shields.io/badge/React-FF007F?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF007F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF007F?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF007F?style=flat-square&logo=mongodb&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF007F?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**◈ BACKEND LAYER**
-
-```ini
-[Node.js]
-proficiency  = 82%
-verdict      = GROWING — server-side, APIs
-
-[Express.js]
-proficiency  = 82%
-verdict      = GROWING — routing, middleware
-
-[REST APIs]
-proficiency  = 80%
-verdict      = SOLID — design + integration
-```
+[![View Project](https://img.shields.io/badge/🔗_VIEW_PROJECT-FF007F?style=for-the-badge)](https://github.com/JainamKhetani)
 
 </td>
-<td width="50%" valign="top">
+<td align="left" width="50%">
 
-**◈ DATA LAYER**
+### 📚 StackIt
+**`[ Q&A INTELLIGENCE PLATFORM ]`**
 
-```ini
-[MySQL]
-proficiency  = 83%
-verdict      = CONFIDENT — schema design, queries
+> A blazing-fast developer Q&A and knowledge-sharing platform. Think StackOverflow but hacker-themed, open-source, and built for the next generation.
 
-[MongoDB]
-proficiency  = 76%
-verdict      = ADVANCING — NoSQL, aggregation
+**What it does:**
+- ⚡ Real-time question & answer system
+- 🏷️ Smart tag-based routing
+- 🔥 Reputation & XP system
+- 🤖 AI-powered answer suggestions
 
-[DB Architecture]
-proficiency  = 82%
-verdict      = STRONG — designed to last
-```
+**Tech Weapons Used:**
 
-**◈ LANGUAGES & INFRASTRUCTURE**
+![Next.js](https://img.shields.io/badge/Next.js-FF007F?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF007F?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF007F?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-FF007F?style=flat-square&logo=tailwindcss&logoColor=white)
 
-```ini
-[Java]
-proficiency  = 80%
-verdict      = STRONG — OOP, data structures
+[![View Project](https://img.shields.io/badge/🔗_VIEW_PROJECT-FF007F?style=for-the-badge)](https://github.com/JainamKhetani)
 
-[C / C++]
-proficiency  = 75%
-verdict      = SOLID — foundations matter
+</td>
+</tr>
+</table>
 
-[Git & GitHub]
-proficiency  = 90%
-verdict      = FLUENT — version control is craft
+<br/>
 
-[Cisco Networking]
-proficiency  = 80%
-verdict      = CCNA CERTIFIED ✅ — not just a badge
-```
+<table align="center" border="0" width="100%">
+<tr>
+<td align="left" width="50%">
+
+### 🌸 Iris Flower CNN
+**`[ NEURAL VISION SYSTEM ]`**
+
+> A deep learning convolutional neural network that classifies iris flower species with superhuman accuracy. My first step into AI/ML domination.
+
+**What it does:**
+- 🧠 CNN architecture from scratch
+- 📸 Image-based flower classification
+- 📈 Training loss/accuracy graphs
+- 🎯 95%+ accuracy achieved
+
+**Tech Weapons Used:**
+
+![Python](https://img.shields.io/badge/Python-FF007F?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF007F?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF007F?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF007F?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF007F?style=flat-square&logo=jupyter&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/🔗_VIEW_PROJECT-FF007F?style=for-the-badge)](https://github.com/JainamKhetani)
+
+</td>
+<td align="left" width="50%">
+
+### 🏫 CHARUSAT Portal Clone
+**`[ UNIVERSITY SYSTEM OVERRIDE ]`**
+
+> A pixel-perfect, responsive clone of the CHARUSAT University portal with enhanced UX, animations, and modern design language applied. Because the original needed saving.
+
+**What it does:**
+- 🎨 1:1 Portal recreation with glow-up
+- 📱 Mobile-first responsive design
+- ⚡ 10x faster load performance
+- 🌙 Dark mode (finally!)
+
+**Tech Weapons Used:**
+
+![HTML5](https://img.shields.io/badge/HTML5-FF007F?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF007F?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF007F?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-FF007F?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![View Project](https://img.shields.io/badge/🔗_VIEW_PROJECT-FF007F?style=for-the-badge)](https://github.com/JainamKhetani)
 
 </td>
 </tr>
@@ -312,44 +536,35 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-**◈ COMPLETE TECHNOLOGY ARSENAL ◈**
+```
+╔════════════════════════════════════════════════════════════╗
+║  🚨 MORE CLASSIFIED PROJECTS IN THE ARCHIVES 🚨            ║
+║  Navigate to: github.com/JainamKhetani                      ║
+║  Warning: May cause inspiration overload                    ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-![React](https://img.shields.io/badge/React-0F0A1E?style=for-the-badge&logo=react&logoColor=A855F7)
-![Node.js](https://img.shields.io/badge/Node.js-0F0A1E?style=for-the-badge&logo=nodedotjs&logoColor=A855F7)
-![Express](https://img.shields.io/badge/Express-0F0A1E?style=for-the-badge&logo=express&logoColor=A855F7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F0A1E?style=for-the-badge&logo=javascript&logoColor=F59E0B)
-![Java](https://img.shields.io/badge/Java-0F0A1E?style=for-the-badge&logo=openjdk&logoColor=F59E0B)
-![MySQL](https://img.shields.io/badge/MySQL-0F0A1E?style=for-the-badge&logo=mysql&logoColor=A855F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0F0A1E?style=for-the-badge&logo=mongodb&logoColor=A855F7)
-![HTML5](https://img.shields.io/badge/HTML5-0F0A1E?style=for-the-badge&logo=html5&logoColor=F59E0B)
-![CSS3](https://img.shields.io/badge/CSS3-0F0A1E?style=for-the-badge&logo=css3&logoColor=F59E0B)
-![Python](https://img.shields.io/badge/Python-0F0A1E?style=for-the-badge&logo=python&logoColor=A855F7)
-![C++](https://img.shields.io/badge/C++-0F0A1E?style=for-the-badge&logo=cplusplus&logoColor=A855F7)
-![C](https://img.shields.io/badge/C-0F0A1E?style=for-the-badge&logo=c&logoColor=F59E0B)
-![Git](https://img.shields.io/badge/Git-0F0A1E?style=for-the-badge&logo=git&logoColor=F59E0B)
-![GitHub](https://img.shields.io/badge/GitHub-0F0A1E?style=for-the-badge&logo=github&logoColor=EDE9FE)
-![VS Code](https://img.shields.io/badge/VS_Code-0F0A1E?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7)
-![Postman](https://img.shields.io/badge/Postman-0F0A1E?style=for-the-badge&logo=postman&logoColor=F59E0B)
-![Linux](https://img.shields.io/badge/Linux-0F0A1E?style=for-the-badge&logo=linux&logoColor=EDE9FE)
-![Cisco](https://img.shields.io/badge/Cisco_CCNA-0F0A1E?style=for-the-badge&logo=cisco&logoColor=A855F7)
+[![ALL PROJECTS](https://img.shields.io/badge/⚡_VIEW_ALL_PROJECTS-FF007F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainamKhetani?tab=repositories)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      📊  ANALYTICS DASHBOARD                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    📊  GITHUB ANALYTICS DASHBOARD                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📊%20ANALYTICS%20DASHBOARD&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=📊%20GITHUB%20ANALYTICS%20HUB&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> *"The numbers don't lie. The grind is real."*
 
 </div>
 
@@ -357,9 +572,27 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushkanani-07&show_icons=true&theme=transparent&title_color=A855F7&icon_color=F59E0B&text_color=EDE9FE&border_color=A855F7&border_radius=14&hide_border=false&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkanani-07&layout=compact&theme=transparent&title_color=A855F7&text_color=EDE9FE&border_color=A855F7&border_radius=14&langs_count=8" height="175"/>
+<!-- STATS + LANGUAGES ROW -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JainamKhetani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=ff007f&icon_color=ff007f&text_color=ffffff&ring_color=ff007f&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JainamKhetani&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff007f&text_color=ffffff&border_radius=10"/>
+
+</div>
+
+<br/>
+
+<!-- STREAK STATS -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JainamKhetani&theme=radical&hide_border=true&background=0d0d0d&stroke=ff007f&ring=ff007f&fire=ff4d6d&currStreakLabel=ff007f&sideLabels=ffffff&dates=888888&border_radius=10" width="60%"/>
+
+</div>
+
+<br/>
+
+<!-- PROFILE SUMMARY CARDS -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JainamKhetani&theme=radical" width="100%"/>
 
 </div>
 
@@ -367,115 +600,70 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ayushkanani-07&theme=transparent&hide_border=false&border=A855F7&stroke=A855F7&ring=F59E0B&fire=F59E0B&currStreakNum=FFFFFF&sideNums=EDE9FE&currStreakLabel=A855F7&sideLabels=EDE9FE&dates=888888&background=0F0A1E&border_radius=14" width="700"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JainamKhetani&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JainamKhetani&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JainamKhetani&theme=radical" height="180em"/>
 
 </div>
 
 <br/>
 
+<!-- ACTIVITY GRAPH -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkanani-07&theme=react-dark&color=A855F7&line=A855F7&point=F59E0B&area=true&hide_border=false&border_color=A855F7&bg_color=0F0A1E&radius=12" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    COMMIT DISCIPLINE INDEX                          │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  Daily Commits      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   STREAK MAINTAINED    │
-│  Code Reviews       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   BEFORE SHIPPING       │
-│  Message Quality    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ALWAYS MEANINGFUL     │
-│  Branch Hygiene     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CONSISTENTLY CLEAN    │
-│  PR Descriptions    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░   THOROUGH & REVIEWED   │
-│  Refactor Rate      ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░   INTENTIONAL           │
-│                                                                     │
-│  VERDICT: Version control is treated as craft, not housekeeping.   │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JainamKhetani&bg_color=0d0d0d&color=ff007f&line=ff007f&point=ffffff&area=true&area_color=ff007f&hide_border=true&border_radius=10&custom_title=⚡%20JAINAM's%20CONTRIBUTION%20WARZONE" width="100%"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🏅  MILESTONE VAULT — CERTIFICATIONS                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       🏆  TROPHY CABINET                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🏅%20MILESTONE%20VAULT&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🏆%20TROPHY%20CABINET&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![CCNA](https://img.shields.io/badge/Cisco-CCNA%20Certified-A855F7?style=for-the-badge&logo=cisco&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Full Stack](https://img.shields.io/badge/Full%20Stack-Certified-A855F7?style=for-the-badge&logo=stackshare&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Database](https://img.shields.io/badge/Database%20Systems-Certified-F59E0B?style=for-the-badge&logo=mysql&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Git](https://img.shields.io/badge/Git%20%26%20GitHub-Certified-F59E0B?style=for-the-badge&logo=git&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=JainamKhetani&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%"/>
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│          AYUSH KANANI — CERTIFICATION VAULT  ·  7+ EARNED                  │
-│                                                                             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   🥇  Cisco CCNA               ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Network architecture, protocols, subnetting — not just theory    │
-│                                                                             │
-│   🥇  Full Stack Development   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── End-to-end architecture — React to Node to DB                    │
-│                                                                             │
-│   🥇  Database Systems         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Relational + NoSQL design principles                             │
-│                                                                             │
-│   🥇  Git & Version Control    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CERTIFIED ✅       │
-│       └── Professional workflow — branching, PRs, history discipline       │
-│                                                                             │
-│   🥇  Certification #5         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│   🥇  Certification #6         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│   🥇  Certification #7         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   EARNED ✅         │
-│                                                                             │
-│   STATUS: ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  VAULT FULL — NEXT MILESTONE IN QUEUE    │
-│                                                                             │
-│   PHILOSOPHY: Every cert is proof of deliberate practice.                  │
-│               Not collected for the badge. Earned for the depth.           │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
+<!-- ACHIEVEMENTS TABLE -->
 <div align="center">
 
-> *"Certifications are the receipts. The understanding is what you spend them on."*
+| 🏅 Achievement | 🏢 Platform | 📅 Year | 🎖️ Status |
+|:---|:---|:---:|:---:|
+| 🏆 Hackathon Finalist | Major Hackathon | 2024 | `ACHIEVED` |
+| 🌍 Open Source Contributor | Hacktoberfest | 2024 | `ACHIEVED` |
+| 🎓 B.Tech CSE Enrollment | CHARUSAT | 2022 | `IN PROGRESS` |
+| 🤖 AI/ML Project Deployed | Self | 2024 | `ACHIEVED` |
+| 🚀 First Full-Stack SaaS | Self | 2024 | `ACHIEVED` |
+| ⭐ GitHub Star Collector | GitHub | 2024 | `GRINDING` |
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   🔬  DEVELOPER DIAGNOSTICS — LIVE                      ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    🧠  CODING JOURNEY — THE GRIND LOG                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🔬%20DEVELOPER%20DIAGNOSTICS&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🧠%20CODING%20JOURNEY&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -484,466 +672,369 @@ verdict      = CCNA CERTIFIED ✅ — not just a badge
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   AYUSH KANANI — CORE DIAGNOSTICS  ·  v2025.1  ·  All Systems Nominal      │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   FRONTEND_ENGINE    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ELITE 🎯                     │
-│   BACKEND_CORE       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   ADVANCING ⚡                  │
-│   DATABASE_MODULE    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CONFIDENT 🗄️                 │
-│   NETWORKING_STACK   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   CCNA CERTIFIED 📡             │
-│   DSA_ENGINE         ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░   GRINDING DAILY 📈             │
-│   SYSTEM_DESIGN      ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   DEEP LEARNING 🧠              │
-│   CLEAN_CODE_INDEX   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   OBSESSIVE STANDARD 🧹        │
-│   UI_PRECISION       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   320px TO 4K VERIFIED 📱      │
-│   PROBLEM_SOLVING    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   METHODICAL 🔍                 │
-│   AMBITION_DRIVE     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   NO CEILING DETECTED 🚀        │
-│                                                                              │
-│   CURRENT_MISSION  : Shipping full stack projects that solve real problems  │
-│                      — not tutorial replicas, not demo clones               │
-│   NEXT_MISSION     : Land a world-class internship. Ship more. Repeat.      │
-│                                                                              │
-│   RUNTIME NOTE     : This developer enters deep-focus mode without notice.  │
-│                      Please commit before interrupting. 🛑                  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                   DSA JOURNEY — OPERATION GRIND                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  Arrays/Strings  ████████████████████  MASTERED ✅              ║
+║  Linked Lists    ██████████████████░░  STRONG ✅                 ║
+║  Trees/Graphs    ████████████████░░░░  ADVANCING 🔥              ║
+║  DP              ██████████████░░░░░░  TRAINING 💪               ║
+║  Backtracking    █████████████░░░░░░░  LEARNING 📚               ║
+║  Greedy          ███████████████░░░░░  GETTING THERE 🎯          ║
+║  Bit Manip       ████████████░░░░░░░░  MYSTERIOUS 🔮             ║
+║  Heaps/Tries     ██████████░░░░░░░░░░  CHALLENGE MODE 🏔️        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+<br/>
+
+<!-- LEETCODE STATS -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=40&section=header&text=⚔️%20LEETCODE%20STATS&fontSize=20&fontColor=ff007f&animation=fadeIn" width="80%"/>
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/JainamKhetani?theme=dark&font=Fira+Code&ext=contest&border=0&radius=10&width=500" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 💡 CODING MILESTONE | STATUS |
+|:---|:---:|
+| 🟢 Solved 100+ LeetCode Problems | `✅ DONE` |
+| 🔵 Completed DSA Sheet | `🔥 IN PROGRESS` |
+| 🟡 Codeforces Rating 1000+ | `🎯 TARGET` |
+| 🔴 Solved 500+ Problems Total | `💪 GRINDING` |
+| ⚫ Achieve Expert on CF | `🚀 DREAM` |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    📦  BLUEPRINTS IN PRODUCTION                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    🐍  CONTRIBUTION SNAKE ANIMATION                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📦%20BLUEPRINTS%20IN%20PRODUCTION&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 <br/>
 
-> *"I don't count projects by quantity. I count them by whether they would survive contact with a real user."*
+> *"The snake eats my contributions and grows stronger. Just like me."*
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JainamKhetani/JainamKhetani/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JainamKhetani/JainamKhetani/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JainamKhetani/JainamKhetani/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🏗️  PROJECT ALPHA                      │
-│   Full Stack Web Application             │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    React · Node.js · MySQL       │
-│   Type     Real problem. Real scope.     │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░  80%  │
-│                                          │
-│   Features:                              │
-│   ▸ Responsive at every breakpoint       │
-│   ▸ RESTful API with clean endpoints     │
-│   ▸ Normalized relational DB schema      │
-│   ▸ Auth & session management            │
-│                                          │
-│   Verdict: Built to be maintained.       │
-└──────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🔧  PROJECT BETA                       │
-│   Backend API Service                    │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    Express.js · MongoDB · JWT    │
-│   Type     Scalable API design           │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░░░  60%  │
-│                                          │
-│   Features:                              │
-│   ▸ Modular route architecture           │
-│   ▸ Middleware pipeline designed right   │
-│   ▸ Schema validation on every input     │
-│   ▸ Error handling that makes sense      │
-│                                          │
-│   Verdict: Designed before line 1.       │
-└──────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   📱  PROJECT GAMMA                      │
-│   Responsive Component Library          │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    React.js · CSS3 · HTML5       │
-│   Type     UI precision project          │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░  85%  │
-│                                          │
-│   Features:                              │
-│   ▸ Every component: 320px → 4K          │
-│   ▸ Zero tutorial-clone components       │
-│   ▸ Accessibility-first decisions        │
-│   ▸ Reusable across 3 live projects      │
-│                                          │
-│   Verdict: UI done without shortcuts.    │
-└──────────────────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```
-┌──────────────────────────────────────────┐
-│   🗄️  PROJECT DELTA                      │
-│   Database Architecture Study           │
-├──────────────────────────────────────────┤
-│                                          │
-│   Stack    MySQL · ERD · Normalization   │
-│   Type     Schema design deep-dive       │
-│   Status   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈  DONE │
-│                                          │
-│   Features:                              │
-│   ▸ 3NF schema with zero redundancy      │
-│   ▸ Indexed for real query performance   │
-│   ▸ Documented for future team members   │
-│   ▸ Migration scripts: clean and atomic  │
-│                                          │
-│   Verdict: Day-1 schema holds on Day 365 │
-└──────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+> **⚙️ Setup Note:** To activate the snake, create `.github/workflows/snake.yml` in your profile repo. See the [Platane/snk](https://github.com/Platane/snk) docs for the workflow file.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🎯  THE OPERATIONS CENTER                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         👾  PACMAN GRAPH                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🎯%20THE%20OPERATIONS%20CENTER&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=👾%20PACMAN%20COMMIT%20HUNT&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> *"PAC-MAN is eating through my contribution graph. Respect."*
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/JainamKhetani/JainamKhetani/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+> **⚙️ Setup Note:** Use the [pacman-contribution-graph](https://github.com/Platane/snk) GitHub Action and set output format to `pacman` for the Pac-Man version.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       🎵  SPOTIFY — SYNTHWAVE STATION                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🎵%20CODING%20SOUNDTRACK&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+<br/>
+
+> *"Every great line of code has a great song behind it."*
+
+<br/>
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=ff007f)](https://open.spotify.com/user/jainamkhetani)
+
+<br/>
+
+```
+🎶 CURRENT CODING PLAYLIST:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ♫ Synthwave Mix — for 3AM debugging sessions
+  ♫ Tokyo Machine — for when the code flows
+  ♫ Daft Punk — for deploying to production
+  ♫ Porter Robinson — for UI design sessions
+  ♫ Any anime OST — when the deadline hits
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+> **⚙️ Setup Note:** Replace Spotify widget URL with your own from [novatorem](https://github.com/novatorem/novatorem) after connecting your Spotify account.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                     🛣️  MISSION ROADMAP — 2025/2026                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🛣️%20MISSION%20ROADMAP&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 </div>
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="33%" align="center">
-
 ```
-◈  BUILDING
-────────────────────
-Full Stack projects
-with real scope.
-
-Not tutorial clones.
-Not copy-paste apps.
-
-Actual problems.
-Actual solutions.
-Actual code quality.
-
-Every commit
-earns its place.
+╔══════════════════════════════════════════════════════════════════════════╗
+║             JAINAM.EXE — DEVELOPER EVOLUTION TIMELINE                   ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║  ✅ 2022 │ ORIGIN STORY                                                  ║
+║          │ ► Enrolled in B.Tech CSE                                       ║
+║          │ ► First HTML page (it was ugly but it worked)                  ║
+║          │ ► Fell in love with coding                                     ║
+║                                                                          ║
+║  ✅ 2023 │ POWER AWAKENING                                                ║
+║          │ ► Mastered JavaScript & React                                  ║
+║          │ ► Built first full-stack projects                              ║
+║          │ ► Joined open-source community                                 ║
+║                                                                          ║
+║  ✅ 2024 │ LEVEL UP ARC                                                   ║
+║          │ ► Launched Krushi Kram & StackIt                               ║
+║          │ ► Explored AI/ML — trained CNN models                          ║
+║          │ ► Participated in first hackathons                             ║
+║          │ ► Contributed to Hacktoberfest                                 ║
+║                                                                          ║
+║  🔥 2025 │ ASCENSION ARC (CURRENT)                                        ║
+║          │ ► Land SDE Internship at top company                           ║
+║          │ ► Become open-source top contributor                           ║
+║          │ ► Build an AI SaaS product                                     ║
+║          │ ► Crack 500+ DSA problems                                      ║
+║          │ ► Win a national hackathon                                     ║
+║                                                                          ║
+║  🚀 2026 │ FINAL BOSS ARC                                                 ║
+║          │ ► Graduate with elite skills                                   ║
+║          │ ► Full-time SDE at dream company                               ║
+║          │ ► Launch personal AI startup                                   ║
+║          │ ► Build tools used by millions                                 ║
+║          │ ► Mentor the next generation                                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
-
-</td>
-<td width="33%" align="center">
-
-```
-◈  STUDYING
-────────────────────
-DSA — every day.
-No skipping.
-No exceptions.
-
-System Design.
-Advanced React.
-Architecture.
-
-The foundations
-that outlast every
-framework trend.
-```
-
-</td>
-<td width="33%" align="center">
-
-```
-◈  SEEKING
-────────────────────
-Internship roles —
-ones that challenge.
-
-Open source PRs
-worth making.
-
-Builders who care
-about the craft,
-not just the output.
-```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
 <div align="center">
 
-| 📌 ACTIVE OPERATION | 🔄 STATUS | ⚡ INTENSITY |
+| 🎯 2025 GOALS | TARGET | STATUS |
 |:---|:---:|:---:|
-| Full Stack Project Development | `IN PROGRESS` | `◈◈◈◈◈◈◈◈◈◈ MAXIMUM` |
-| Data Structures & Algorithms | `DAILY — NO SKIP` | `◈◈◈◈◈◈◈◈░░ HIGH` |
-| System Design Fundamentals | `DEEP STUDY` | `◈◈◈◈◈◈░░░░ FOCUSED` |
-| Advanced React Patterns | `LEARNING` | `◈◈◈◈◈◈◈░░░ HIGH` |
-| Internship Application Track | `ACTIVE` | `◈◈◈◈◈◈◈◈◈◈ MAXIMUM` |
-| Open Source Contributions | `EXPLORING` | `◈◈◈◈░░░░░░ GROWING` |
-| Networking Deep-Dives (CCNA+) | `ONGOING` | `◈◈◈◈◈◈░░░░ CONSISTENT` |
+| 🏢 Land a Software Internship | Q2 2025 | `🔥 HUNTING` |
+| 🌐 Launch Personal Portfolio | Q1 2025 | `🚀 BUILDING` |
+| 🤖 Deploy AI SaaS | Q3 2025 | `📐 PLANNING` |
+| 💻 500+ LeetCode Solved | Q4 2025 | `⚔️ GRINDING` |
+| 🏆 Win Hackathon | 2025 | `🎯 TARGETING` |
+| 📦 10+ Open Source PRs | 2025 | `💪 IN PROGRESS` |
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      😂  FUN ZONE — CHAOS CONTROL                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=😂%20CHAOS%20MODE%20ACTIVATED&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
+
+</div>
+
 <br/>
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│   AYUSH KANANI — LIVE SYSTEM STATUS                                      │
-│                                                                          │
-├──────────────────────────────────────────────────────────────────────────┤
-│                                                                          │
-│   🧠  BRAIN LOAD         ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Processing 24 / 7      │
-│   ☕  CHAI RESERVES      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   Critically Low          │
-│   💻  TABS OPEN          ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Classified              │
-│   🏏  CRICKET QUOTA      ◈◈◈◈░░░░░░░░░░░░░░░░   Scheduled — 5PM daily   │
-│   📚  LEARNING QUEUE     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Perpetually Non-Empty  │
-│   🔥  MOTIVATION LEVEL   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   No Dip Detected        │
-│   🐛  BUGS IN THE WILD   ◈◈◈◈◈◈◈◈░░░░░░░░░░░░   Under Active Hunt       │
-│   🚀  SHIPPING RATE      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   Accelerating           │
-│   🎯  GOAL PROXIMITY     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░░░   Closing In              │
-│   📡  SIGNAL STRENGTH    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   Gujarat → Everywhere   │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║              JAINAM'S CURRENT SURVIVAL STATUS                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  ☕ COFFEE LEVEL:    ████████████████████  MAXIMUM               ║
+║  😴 SLEEP STATUS:   ░░░░░░░░░░░░░░░░░░░░  NONE                 ║
+║  🧠 BRAIN CAPACITY: ████████████░░░░░░░░  OVERLOADED            ║
+║  💻 TAB COUNT:      ████████████████████  47 OPEN               ║
+║  🔥 BUG COUNT:      ████████████████░░░░  "FEATURES"            ║
+║  😤 DEADLINE FEAR:  ████████████████████  EXISTENTIAL           ║
+║  🎮 ANIME WATCHED:  ████████████████████  TOO MANY              ║
+║  📚 DOCS READ:      ████░░░░░░░░░░░░░░░░  "I Google"            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 <br/>
 
+<div align="center">
 
+**🎭 THE DAILY LIFE OF JAINAM:**
+
+| ⏰ TIME | 🎭 ACTIVITY |
+|:---:|:---|
+| `00:00 AM` | "Just one more commit before sleep" |
+| `02:00 AM` | Still debugging that one thing |
+| `03:00 AM` | "Wait why does this work now???" |
+| `09:00 AM` | *existing purely on caffeine* |
+| `12:00 PM` | "I should eat... after this feature" |
+| `06:00 PM` | Watched 3 YouTube tutorials instead of docs |
+| `09:00 PM` | Opened StackOverflow, closed without answer |
+| `11:59 PM` | "Let me just start this new project idea" |
+
+</div>
+
+<br/>
 
 <div align="center">
 
-**◈ REAL COMMITS FROM AYUSH'S REPOSITORY HISTORY ◈**
+**💬 ACTUAL QUOTES FROM THE CODEBASE:**
 
 ```javascript
-// git log --oneline --author="ayushkanani-07" (selected highlights)
-
-a1f3c2e  feat: responsive navbar — verified at 320px, 768px, 1440px, 4K
-b2e8d91  fix: 2px alignment inconsistency in card grid. 2px matters. always.
-c4a1f33  refactor: renamed 14 variables — they now describe what they hold
-d7b99fe  chore: removed every commented-out block — if not running, not here
-e3d44a0  style: spacing audit across 5 components — all consistent now
-f9c20b1  docs: commit message my future self will actually understand
-g5a71d3  feat: database schema v2 — designed properly this time
-h8f003e  fix: traced bug to the day-1 schema. Redesigned from scratch.
-i2c90a4  perf: reduced re-renders by 40% — measured, not guessed
-j7d33b5  test: added validation for edge case no one thought to check
+// TODO: fix this later
+// lol this works idk why
+// DO NOT TOUCH THIS OR EVERYTHING BREAKS
+// This is a temporary solution (written in 2023)
+// Dear future me: I'm so sorry
+// trust the process (I do not trust the process)
+// ChatGPT said this would work
+console.log("why") // 47th attempt at debugging
 ```
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+
+**⚡ JAINAM'S UNBREAKABLE LAWS:**
+
+> 🔸 `"Dark mode is not optional. It is a lifestyle."`
+>
+> 🔸 `"git commit -m 'fix' is a perfectly valid commit message."`
+>
+> 🔸 `"The best code is the one that somehow works."`
+>
+> 🔸 `"Sleep is for people without deadlines."`
+>
+> 🔸 `"If it works on my machine, it's the server's problem."`
+>
+> 🔸 `"CSS is not a programming language. It is an emotion."`
+>
+> 🔸 `"The first rule of debugging: it's never the code you wrote."`
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  📜  THE BUILDER'S MANIFESTO                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      🤝  OPEN SOURCE RECORD                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=📜%20THE%20BUILDER'S%20MANIFESTO&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🔓%20OPEN%20SOURCE%20RECORD&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 <br/>
 
-> *"I'm not chasing trends. I'm building the kind of engineer I'd want on my own team — someone who owns their work, cares about the craft, and ships things that actually deserve to exist."*
-
-</div>
+> *"Code that helps others is the highest form of code."*
 
 <br/>
 
-<div align="center">
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2024-Contributor-ff007f?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=0d0d0d)](https://hacktoberfest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-ff007f?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/JainamKhetani)
+[![Open Source](https://img.shields.io/badge/Open_Source-Enthusiast-ff007f?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d0d0d)](https://github.com/JainamKhetani)
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│              AYUSH KANANI — LONG-TERM DIRECTIVE · v2025                     │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   LEARNING_ENGINE      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   PERPETUAL — never paused  │
-│   SHIPPING_FREQUENCY   ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   CONSISTENT — daily rate    │
-│   CODE_QUALITY_BAR     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   NEVER DROPS — non-negotiable│
-│   CURIOSITY_LEVEL      ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   INFINITE — no topic off-limits│
-│   TEAM_READINESS       ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   PRIMED — built for collab  │
-│   CAREER_TRAJECTORY    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   ASCENDING — no ceiling set │
-│                                                                              │
-│   WHERE THIS IS ALL GOING:                                                  │
-│   ◈ SDE at a company solving real, meaningful problems at real scale        │
-│   ◈ Building products that users rely on — and come back to                 │
-│   ◈ Mentoring the next generation of developers from Gujarat 🇮🇳           │
-│   ◈ Proving that deliberate, consistent practice always compounds           │
-│                                                                              │
-│   NOTE: This developer does not have an upper bound.                        │
-│   The build is still in progress. Revisit this profile often. 🔄           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║               OPEN SOURCE MISSION REPORT                     ║
+╠══════════════════════════════════════════════════════════════╣
+║  Hacktoberfest 2024      ████████████████████  COMPLETED ✅  ║
+║  PR Contributions        ████████████████░░░░  ONGOING 🔥    ║
+║  Issue Reporting         ██████████░░░░░░░░░░  GROWING 📈    ║
+║  Code Reviews            ████████░░░░░░░░░░░░  LEARNING 🧠   ║
+║  Own Projects OSS'd      ████████████████████  DONE ✅       ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br/>
-
 <div align="center">
-
-**◈ ENGINEERING PRINCIPLES I ACTUALLY LIVE BY ◈**
-
-<br/>
-
-> 🔶 `"Working code is the starting line. Good code is where the real work begins."`
->
-> 🔶 `"Every layout you build must hold at 320px and 1920px without compromise."`
->
-> 🔶 `"A variable name that explains itself is worth ten comments that explain around it."`
->
-> 🔶 `"Ship it imperfect. Then iterate until it is right. Waiting for perfect means never shipping."`
->
-> 🔶 `"The database schema you design on day one haunts your team on day 1000. Get it right."`
->
-> 🔶 `"Reading someone else's clean code is a masterclass. Do it every week."`
->
-> 🔶 `"Bugs are just requirements you haven't read carefully enough. Re-read. Then fix."`
->
-> 🔶 `"A commit message is a letter to your future team. Write something worth reading."`
->
-> 🔶 `"The best engineers I've studied don't just write code. They communicate through it."`
->
-> 🔶 `"If the component isn't responsive, it is simply not finished. No exceptions."`
->
-> 🔶 `"Deliberate practice over frantic grinding. Consistency over bursts. Depth over breadth."`
->
-> 🔶 `"Understand the network your code runs on. It is not someone else's problem."`
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  🔓  OPEN SOURCE & COLLABORATION                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    🤖  AI NEURAL STATUS SYSTEM                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🔓%20OPEN%20SOURCE%20%26%20COLLABORATION&fontSize=24&fontColor=F59E0B&animation=fadeIn" width="100%"/>
-
-<br/>
-
-> *"The best kind of code is the kind someone else can build on top of."*
-
-<br/>
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Open Source](https://img.shields.io/badge/Open_Source-Committed-A855F7?style=for-the-badge&logo=opensourceinitiative&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![Collaborate](https://img.shields.io/badge/Collaboration-Open-F59E0B?style=for-the-badge&logo=handshake&logoColor=0F0A1E&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-
-</div>
-
-<br/>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│                  OPEN SOURCE MISSION REPORT — 2025                          │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   PRs & Contributions    ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈░░░░   ONGOING — always open    │
-│   Issue Reporting        ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   GROWING — quality > qty  │
-│   Code Reviews           ◈◈◈◈◈◈◈◈░░░░░░░░░░░░   LEARNING — reading code   │
-│   Own Projects OSS'd     ◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈◈   DONE — public & useful   │
-│   Collaborations Open    ◈◈◈◈◈◈◈◈◈◈░░░░░░░░░░   OPEN — serious builders   │
-│                                                                              │
-│   I collaborate with builders who:                                          │
-│   ◈ Take code quality seriously — not just make it work                    │
-│   ◈ Write documentation their teammates can actually use                   │
-│   ◈ Build things that solve problems, not just add to portfolios           │
-│   ◈ Treat version control as communication, not a backup tool              │
-│                                                                              │
-│   If that sounds like you — let's build something worth building.          │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-**If you want to build something worth building — you know where to find me.**
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  🧭  THE NAVIGATOR — RECRUITER EDITION                  ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🧭%20FOR%20THE%20RECRUITERS&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=🤖%20AI%20NEURAL%20STATUS&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -952,106 +1043,100 @@ j7d33b5  test: added validation for edge case no one thought to check
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   If you're a recruiter reading this profile:                               │
-│                                                                              │
-│   You just reviewed a developer who —                                       │
-│                                                                              │
-│   ◈ Builds real full stack products. Not tutorial replicas.                 │
-│   ◈ Takes responsive UI non-negotiable — 320px to 4K, no excuses.          │
-│   ◈ Earned 7+ certifications while building and learning simultaneously.   │
-│   ◈ Holds a Cisco CCNA — understands the network his code runs on.         │
-│   ◈ Designs database schemas that hold up at day 1 and day 365.            │
-│   ◈ Writes commit messages that communicate, not just record.               │
-│   ◈ Shows up every single day. The streak is not a vanity metric.          │
-│   ◈ Understands the full stack — front to back to network layer.           │
-│                                                                              │
-│   What you would get on your team:                                          │
-│   → Someone who owns their work end-to-end                                  │
-│   → Someone who ships clean, not just fast                                  │
-│   → Someone who reads the docs before asking the question                   │
-│   → Someone whose codebase you'd want to inherit                            │
-│   → Someone who treats your users with the same respect as the code        │
-│                                                                              │
-│   Reach out. Seriously.                                                      │
-│   ayushkanani2601@gmail.com  ·  linkedin.com/in/ayush-kanani               │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██████████████████████████████████████████████████████████       ║
+║   ██         JAINAM AI CORE — NEURAL DIAGNOSTICS v2.0         ██   ║
+║   ██████████████████████████████████████████████████████████       ║
+║                                                                      ║
+║   NEURAL_PATHWAYS    ████████████████████  FIRING 🔴              ║
+║   LEARNING_RATE      ████████████████████  MAXIMUM ⚡             ║
+║   CREATIVITY_CORE    ████████████████████  OVERCLOCKED 🔥         ║
+║   CURIOSITY_ENGINE   ████████████████████  INFINITE 🌀            ║
+║   PROBLEM_SOLVER     ████████████████████  ACTIVE 🧠              ║
+║   AMBITION_DRIVE     ████████████████████  UNSTOPPABLE 🚀         ║
+║                                                                      ║
+║   CURRENT_TASK: Building things that matter                         ║
+║   NEXT_TASK:    Building things that matter MORE                    ║
+║                                                                      ║
+║   WARNING: Developer is in HYPERFOCUS MODE. Do not disturb.        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=4" width="100%"/>
+
+| 🤖 AI INTEREST | EXPLORATION LEVEL | FOCUS |
+|:---|:---:|:---:|
+| Machine Learning | `████████░░` 80% | `Active` |
+| Computer Vision | `███████░░░` 70% | `Active` |
+| NLP / LLMs | `██████░░░░` 60% | `Exploring` |
+| Generative AI | `███████░░░` 70% | `Building` |
+| Reinforcement Learning | `████░░░░░░` 40% | `Learning` |
+| AI Agents | `█████░░░░░` 50% | `Exploring` |
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                     🌠  FINAL TRANSMISSION                              ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         📡  FINAL TRANSMISSION                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24,30&height=65&text=🌠%20FINAL%20TRANSMISSION&fontSize=26&fontColor=F59E0B&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,2,5,30&height=60&section=header&text=📡%20FINAL%20TRANSMISSION&fontSize=28&fontColor=ff007f&animation=fadeIn" width="100%"/>
 
 <br/>
 
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│         TRANSMISSION RECEIVED — YOU REACHED THE END OF AYUSH KANANI        │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   If you're a recruiter here:                                               │
-│   You just read the profile of someone who will not waste your time         │
-│   or your team's. Reach out. I'm ready.                                     │
-│                                                                              │
-│   If you're a developer here:                                               │
-│   Let's build something together. Not another todo app.                     │
-│   Something with a real problem behind it.                                  │
-│                                                                              │
-│   If you're a student from Gujarat, India 🇮🇳 just starting out:          │
-│   This was built one commit at a time, from the same place you're in.      │
-│   Consistent practice really does compound. Trust the process.              │
-│                                                                              │
-│   If you scrolled here out of pure curiosity:                               │
-│   Respect. That's developer instinct. You belong in this field.             │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   — Ayush Kanani  ·  ayushkanani-07                                         │
-│     Full Stack Developer  ·  B.Tech CSE  ·  CSPIT CHARUSAT                 │
-│     CCNA Certified  ·  Gujarat, India 🇮🇳                                  │
-│                                                                              │
-│     "The future belongs to those disciplined enough to build it."           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   If you've scrolled this far, you are elite.                   ║
+║                                                                  ║
+║   You just witnessed the GitHub profile of someone who:         ║
+║     ► Codes at 3AM for fun                                       ║
+║     ► Treats every project like a hackathon                      ║
+║     ► Believes open source makes the world better               ║
+║     ► Will grind until the dream is real                         ║
+║                                                                  ║
+║   If you want to build something insane together —              ║
+║   you know where to find me.                                    ║
+║                                                                  ║
+║   — Jainam Khetani, aka JainamKhetani                           ║
+║     Full Stack Dev | AI Explorer | Future SDE                    ║
+║     "Ship it. Break it. Fix it. Ship it again." 🚀              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-A855F7?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=0F0A1E)](https://github.com/ayushkanani-07)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=0F0A1E)](https://www.linkedin.com/in/ayush-kanani)
-[![Instagram](https://img.shields.io/badge/Follow_on_Instagram-F59E0B?style=for-the-badge&logo=instagram&logoColor=0F0A1E&labelColor=0F0A1E)](https://www.instagram.com/ayush_.k._07)
-[![Email](https://img.shields.io/badge/Drop_an_Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=0F0A1E&labelColor=0F0A1E)](mailto:ayushkanani2601@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainam-khetani)
+[![Email](https://img.shields.io/badge/Send_Me_an_Email-FF007F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainam.khetani@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-FF007F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JainamKhetani)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=12,20,24,30&height=200&section=footer&text=AYUSH%20KANANI%20%E2%80%94%20UNTIL%20THE%20NEXT%20COMMIT&fontSize=22&fontColor=F59E0B&animation=fadeIn&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=JAINAM.EXE%20—%20SIGNING%20OFF&fontSize=24&fontColor=ff007f&animation=twinkling&fontAlignY=65"/>
 
 <br/>
 
-*⭐ If this profile left an impression — a star on any repo keeps the momentum going. ⭐*
+*⭐ If this profile impressed you — drop a star on any repo. It fuels the grind. ⭐*
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔍 You found the bottom layer. That is pure developer instinct at work.        -->
-<!-- UNLOCKED: ayushkanani-07 — depth seeker badge                                  -->
-<!-- REWARD: +9999 XP · +1 respect · appreciation for actually reading all of this  -->
-<!-- ayushkanani-07 :: return Ok(()); — until the next commit 🚀                    -->
-<!-- ════════════════════════════════════════════════════════════════════════════════ -->
+<br/>
+
+<!-- EASTER EGG -->
+<!-- 🎮 You found the easter egg. You are a true developer. -->
+<!-- Reward: +9999 XP, +1 Respect, +infinity Coolness -->
 
 </div>
 
@@ -1059,8 +1144,8 @@ j7d33b5  test: added validation for edge case no one thought to check
 
 <div align="center">
 
-**Built with 🏗️ full-stack precision · ☕ strong chai · 🏏 cricket-fuelled clarity · 📡 network-layer awareness**
+**Made with 🩸 sweat, ☕ coffee, and an unhealthy amount of 💻 screen time.**
 
-*© 2025 Ayush Kanani · ayushkanani-07 · Crafted deliberately, not generated carelessly · Gujarat, India 🇮🇳*
+*© 2025 Jainam Khetani — All rights reserved. Copying is flattery though.*
 
 </div>
